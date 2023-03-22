@@ -1,0 +1,16 @@
+version: "3"
+
+services:
+  rx-fe-prod-service:
+    build:
+      context: .
+      dockerfile: Dockerfile.prod
+    image: rx-fe-prod
+    container_name: rx-fe-prod-container
+    ports:
+      - "3001:3001"
+    volumes:
+      - ./build:/usr/src/rx-fe-prod
+      - /usr/src/rx-fe-prod/node_modules
+    command: yarn start:prod
+    env_file: ./.env

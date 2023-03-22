@@ -1,0 +1,15 @@
+FROM node:14.17.4-alpine
+
+RUN mkdir -p /usr/src/rx-fe-prod && chown -R node:node /usr/src/rx-fe-prod
+
+WORKDIR /usr/src/rx-fe-prod
+
+COPY package.json yarn.lock ./
+
+USER node
+
+RUN yarn install --production --pure-lockfile
+
+RUN yarn run build
+
+COPY --chown=node:node ./build .

@@ -1,0 +1,9 @@
+.root {
+  display: grid;
+  gap: 5px 5px;
+  grid-template-columns: 60fr;
+  grid-template-areas:
+    "TopTitle "
+    "VietNamMap ";
+  visibility: visible;
+}

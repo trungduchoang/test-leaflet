@@ -1,0 +1,23 @@
+{
+  "Quick component creation": {
+    "prefix": "_newComponent",
+    "body": [
+      "// others",
+      "import { useStyles } from './styles';",
+      "",
+      "/**",
+      " * ${1:Component}",
+      " */",
+      "export default function ${1:Component}() {",
+      "  const classes = useStyles('${1:Component}')();",
+      "",
+      "  return (",
+      "    <div className={classes.root}>",
+      "      $2",
+      "    </div>",
+      "  );",
+      "}"
+    ],
+    "description": "Quick component creation"
+  }
+}

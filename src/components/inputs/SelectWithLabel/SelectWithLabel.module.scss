@@ -1,0 +1,8 @@
+.root {
+  color: unset;
+}
+.fixLabel {
+  :global(.MuiInputLabel-root):not(.MuiInputLabel-shrink) {
+    top: -7px;
+  }
+}

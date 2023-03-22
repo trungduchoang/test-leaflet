@@ -1,0 +1,113 @@
+{
+  "name": "react-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "react-app-rewired start",
+    "start:prod": "npx serve -s build",
+    "build": "react-app-rewired build -c",
+    "test": "react-app-rewired test",
+    "checkTs": "tsc --noEmit",
+    "lint": "yarn lint:ts && yarn lint:style",
+    "lint:ts": "eslint --cache --fix --ext .ts,.tsx ./src",
+    "lint:style": "stylelint --fix \"src/**/*.scss\"",
+    "prettier:fix": "prettier -c \"**/src/**\" --write",
+    "prepare": "husky install"
+  },
+  "dependencies": {
+    "@emotion/react": "11.7.1",
+    "@emotion/styled": "11.6.0",
+    "@hookform/resolvers": "2.8.3",
+    "@material-ui/core": "4.12.3",
+    "@mui/material": "5.2.6",
+    "@types/leaflet": "^1.9.3",
+    "@types/react-leaflet": "^3.0.0",
+    "axios": "0.21.1",
+    "clsx": "1.1.1",
+    "dayjs": "1.10.7",
+    "jwt-decode": "3.1.2",
+    "leaflet": "^1.9.3",
+    "query-string": "7.0.1",
+    "rc-notification": "4.5.7",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-hook-form": "7.19.0",
+    "react-leaflet": "^4.2.1",
+    "react-mui-confirm": "1.0.1",
+    "react-redux": "7.2.4",
+    "react-router-dom": "5.2.0",
+    "react-scripts": "5.0.0",
+    "react-svg": "14.0.17",
+    "redux": "4.1.0",
+    "redux-thunk": "2.4.0",
+    "sass": "1.49.8",
+    "web-vitals": "2.1.0",
+    "yup": "0.32.11"
+  },
+  "devDependencies": {
+    "@types/node": "15.0.2",
+    "@types/query-string": "6.3.0",
+    "@types/react": "17.0.5",
+    "@types/react-dom": "17.0.3",
+    "@types/react-grid-layout": "1.1.2",
+    "@types/react-router-dom": "5.1.7",
+    "@typescript-eslint/eslint-plugin": "4.22.1",
+    "@typescript-eslint/parser": "4.22.1",
+    "babel-eslint": "10.1.0",
+    "babel-plugin-import": "1.13.3",
+    "eslint": "7.25.0",
+    "eslint-config-airbnb": "18.2.1",
+    "eslint-config-airbnb-typescript": "12.3.1",
+    "eslint-config-babel": "9.0.0",
+    "eslint-config-prettier": "8.3.0",
+    "eslint-import-resolver-typescript": "2.4.0",
+    "eslint-plugin-eslint-comments": "3.2.0",
+    "eslint-plugin-import": "2.22.1",
+    "eslint-plugin-jest": "24.3.6",
+    "eslint-plugin-json": "3.0.0",
+    "eslint-plugin-jsx-a11y": "6.4.1",
+    "eslint-plugin-prettier": "3.4.0",
+    "eslint-plugin-react": "7.28.0",
+    "eslint-plugin-react-hooks": "4.3.0",
+    "eslint-plugin-unicorn": "31.0.0",
+    "husky": "7.0.4",
+    "husky-init": "7.0.0",
+    "lint-staged": "10.5.4",
+    "prettier": "2.2.1",
+    "prettier-eslint": "12.0.0",
+    "react-app-rewire-alias": "1.0.3",
+    "react-app-rewired": "2.1.8",
+    "stylelint": "13.13.1",
+    "stylelint-config-rational-order": "0.1.2",
+    "stylelint-config-standard": "22.0.0",
+    "stylelint-order": "4.1.0",
+    "stylelint-prettier": "1.2.0",
+    "typescript": "4.2.4"
+  },
+  "lint-staged": {
+    "*.{ts,tsx}": [
+      "prettier --write",
+      "eslint --fix"
+    ],
+    "*.scss": [
+      "stylelint --fix"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devEngines": {
+    "node": ">=14.x",
+    "npm": ">=6.x",
+    "yarn": ">=1.21.3"
+  }
+}

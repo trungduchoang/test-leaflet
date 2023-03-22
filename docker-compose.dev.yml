@@ -1,0 +1,18 @@
+version: "3"
+
+services:
+  rx-fe-dev-service:
+    build:
+      context: .
+      dockerfile: Dockerfile.dev
+    image: rx-fe-dev
+    container_name: rx-fe-dev-container
+    ports:
+      - "3000:3000"
+    volumes:
+      - .:/usr/src/rx-fe-dev
+      - /usr/src/rx-fe-dev/node_modules
+    command: yarn run dev
+    environment:
+      - CHOKIDAR_USEPOLLING=true
+    env_file: ./.env.example

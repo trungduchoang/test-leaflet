@@ -1,0 +1,9 @@
+.defaultStyles {
+  margin: 5px;
+  background: linear-gradient(45deg, #0ebcf0 30%, #129abc 90%);
+  box-shadow: 0 3px 5px 2px rgba($color: #0ebcf0, $alpha: 0.3);
+
+  &:global(.MuiButton-root) {
+    color: #ffffff;
+  }
+}

@@ -1,0 +1,13 @@
+FROM node:14.17.4-alpine
+
+RUN mkdir -p /usr/src/rx-fe-dev && chown -R node:node /usr/src/rx-fe-dev
+
+WORKDIR /usr/src/rx-fe-dev
+
+COPY package.json yarn.lock ./
+
+USER node
+
+RUN yarn install --pure-lockfile
+
+COPY --chown=node:node . .
