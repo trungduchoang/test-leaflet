@@ -1,8 +1,8 @@
 FROM node:14.17.4-alpine
 
-RUN mkdir -p /usr/src/rx-fe-dev && chown -R node:node /usr/src/rx-fe-dev
+RUN mkdir -p /usr/src/map-demo-dev && chown -R node:node /usr/src/map-demo-dev
 
-WORKDIR /usr/src/rx-fe-dev
+WORKDIR /usr/src/map-demo-dev
 
 COPY package.json yarn.lock ./
 

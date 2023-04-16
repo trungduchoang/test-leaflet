@@ -1,16 +1,15 @@
 version: "3"
 
 services:
-  rx-fe-prod-service:
+  map-demo-prod-service:
     build:
       context: .
       dockerfile: Dockerfile.prod
-    image: rx-fe-prod
-    container_name: rx-fe-prod-container
+    image: map-demo-prod
+    container_name: map-demo-prod-container
     ports:
-      - "3001:3001"
+      - "3000:3000"
     volumes:
-      - ./build:/usr/src/rx-fe-prod
-      - /usr/src/rx-fe-prod/node_modules
+      - .:/usr/src/map-demo-prod
     command: yarn start:prod
     env_file: ./.env
