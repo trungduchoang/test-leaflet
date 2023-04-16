@@ -35,7 +35,7 @@ export function useAsync<TResponse = TObject>(asyncFunction: Function) {
         params,
       })
         .then((response: any) => {
-          setResponse(response.data);
+          setResponse(response);
           if (cbSuccess) cbSuccess(response);
         })
         .catch((error: any) => setError(error))

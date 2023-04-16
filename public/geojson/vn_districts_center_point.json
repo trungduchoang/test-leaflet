@@ -1,0 +1,7814 @@
+{
+  "data": [
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "An Giang",
+      "NAME": "An Phú",
+      "TYPE": "Huyện ",
+      "VARNAME": "An Phu",
+      "CENTER": [
+        10.874014588810951,
+        105.07802589704845
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "An Giang",
+      "NAME": "Chợ Mới",
+      "TYPE": "Huyện ",
+      "VARNAME": "Cho Moi",
+      "CENTER": [
+        10.454378560881304,
+        105.48216035004275
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "An Giang",
+      "NAME": "Châu Đốc",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Chau Doc",
+      "CENTER": [
+        10.71442091744953,
+        105.08581628157958
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "An Giang",
+      "NAME": "Châu Phú",
+      "TYPE": "Huyện ",
+      "VARNAME": "Chau Phu",
+      "CENTER": [
+        10.561052366714716,
+        105.22958673421114
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "An Giang",
+      "NAME": "Châu Thành",
+      "TYPE": "Huyện ",
+      "VARNAME": "Chau Thanh",
+      "CENTER": [
+        10.422910905236451,
+        105.29967582821241
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "An Giang",
+      "NAME": "Long Xuyên",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Long Xuyen",
+      "CENTER": [
+        10.36680803588531,
+        105.42380826546703
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "An Giang",
+      "NAME": "Phú Tân",
+      "TYPE": "Huyện ",
+      "VARNAME": "Phu Tan",
+      "CENTER": [
+        10.68048506986287,
+        105.26538245360109
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "An Giang",
+      "NAME": "Tịnh Biên",
+      "TYPE": "Huyện ",
+      "VARNAME": "Tinh Bien",
+      "CENTER": [
+        10.554151166240356,
+        104.9687341186006
+      ]
+    },
+    {
+      "ENGTYPE": "Town",
+      "PROVINCE": "An Giang",
+      "NAME": "Tân Châu",
+      "TYPE": "Thị xã",
+      "VARNAME": "Tan Chau",
+      "CENTER": [
+        10.81313309835654,
+        105.18647132792344
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "An Giang",
+      "NAME": "Thoại Sơn",
+      "TYPE": "Huyện ",
+      "VARNAME": "Thoai Son",
+      "CENTER": [
+        10.318548834517976,
+        105.2974675408829
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "An Giang",
+      "NAME": "Tri Tôn",
+      "TYPE": "Huyện ",
+      "VARNAME": "Tri Ton",
+      "CENTER": [
+        10.46902269850448,
+        104.94175650470847
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "Bạc Liêu",
+      "NAME": "Bạc Liêu",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Bac Lieu",
+      "CENTER": [
+        9.268656109167045,
+        105.74211317051021
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bạc Liêu",
+      "NAME": "Đông Hải",
+      "TYPE": "Huyện ",
+      "VARNAME": "Dong Hai",
+      "CENTER": [
+        9.117729570710772,
+        105.38631996398047
+      ]
+    },
+    {
+      "ENGTYPE": "Town",
+      "PROVINCE": "Bạc Liêu",
+      "NAME": "Giá Rai",
+      "TYPE": "Thị xã",
+      "VARNAME": "Gia Rai",
+      "CENTER": [
+        9.251553321778879,
+        105.39867771300966
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bạc Liêu",
+      "NAME": "Hồng Dân",
+      "TYPE": "Huyện ",
+      "VARNAME": "Hong Dan",
+      "CENTER": [
+        9.547547097669398,
+        105.3886215688075
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bạc Liêu",
+      "NAME": "Hoà Bình",
+      "TYPE": "Huyện ",
+      "VARNAME": "Hoa Binh",
+      "CENTER": [
+        9.256834403895178,
+        105.62675333475048
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bạc Liêu",
+      "NAME": "Phước Long",
+      "TYPE": "Huyện ",
+      "VARNAME": "Phuoc Long",
+      "CENTER": [
+        9.375489573996438,
+        105.40577668794744
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bạc Liêu",
+      "NAME": "Vĩnh Lợi",
+      "TYPE": "Huyện ",
+      "VARNAME": "Vinh Loi",
+      "CENTER": [
+        9.368956215882823,
+        105.72740223455956
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "Bắc Giang",
+      "NAME": "Bắc Giang",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Bac Giang",
+      "CENTER": [
+        21.27908686897838,
+        106.19577444762729
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bắc Giang",
+      "NAME": "Hiệp Hòa",
+      "TYPE": "Huyện ",
+      "VARNAME": "Hiep Hoa",
+      "CENTER": [
+        21.34515570777571,
+        105.97939415474734
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bắc Giang",
+      "NAME": "Lạng Giang",
+      "TYPE": "Huyện ",
+      "VARNAME": "Lang Giang",
+      "CENTER": [
+        21.37419707384116,
+        106.26739012470026
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bắc Giang",
+      "NAME": "Lục Nam",
+      "TYPE": "Huyện ",
+      "VARNAME": "Luc Nam",
+      "CENTER": [
+        21.28436586542465,
+        106.45106926219414
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bắc Giang",
+      "NAME": "Lục Ngạn",
+      "TYPE": "Huyện ",
+      "VARNAME": "Luc Ngan",
+      "CENTER": [
+        21.422809999136202,
+        106.64355863933302
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bắc Giang",
+      "NAME": "Sơn Động",
+      "TYPE": "Huyện ",
+      "VARNAME": "Son Dong",
+      "CENTER": [
+        21.32630055407731,
+        106.85250887326771
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bắc Giang",
+      "NAME": "Tân Yên",
+      "TYPE": "Huyện ",
+      "VARNAME": "Tan Yen",
+      "CENTER": [
+        21.389316851490843,
+        106.088964132946
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bắc Giang",
+      "NAME": "Việt Yên",
+      "TYPE": "Huyện ",
+      "VARNAME": "Viet Yen",
+      "CENTER": [
+        21.28837365117498,
+        106.09099445017853
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bắc Giang",
+      "NAME": "Yên Dũng",
+      "TYPE": "Huyện ",
+      "VARNAME": "Yen Dung",
+      "CENTER": [
+        21.221556671674417,
+        106.25286066684276
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bắc Giang",
+      "NAME": "Yên Thế",
+      "TYPE": "Huyện ",
+      "VARNAME": "Yen The",
+      "CENTER": [
+        21.501463083338386,
+        106.14129727691966
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bắc Kạn",
+      "NAME": "Bạch Thông",
+      "TYPE": "Huyện ",
+      "VARNAME": "Bach Thong",
+      "CENTER": [
+        22.193468702787257,
+        105.84393770366613
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bắc Kạn",
+      "NAME": "Ba Bể",
+      "TYPE": "Huyện ",
+      "VARNAME": "Ba Be",
+      "CENTER": [
+        22.419213769130334,
+        105.72913908664992
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bắc Kạn",
+      "NAME": "Chợ Đồn",
+      "TYPE": "Huyện ",
+      "VARNAME": "Cho Don",
+      "CENTER": [
+        22.185819213822324,
+        105.57659401454417
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bắc Kạn",
+      "NAME": "Chợ Mới",
+      "TYPE": "Huyện ",
+      "VARNAME": "Cho Moi",
+      "CENTER": [
+        21.99141099638406,
+        105.86027440971753
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bắc Kạn",
+      "NAME": "Na Rì",
+      "TYPE": "Huyện ",
+      "VARNAME": "Na Ri",
+      "CENTER": [
+        22.146166908864195,
+        106.07682805815153
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bắc Kạn",
+      "NAME": "Ngân Sơn",
+      "TYPE": "Huyện ",
+      "VARNAME": "Ngan Son",
+      "CENTER": [
+        22.41475044337878,
+        106.02650618965433
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bắc Kạn",
+      "NAME": "Pác Nặm",
+      "TYPE": "Huyện ",
+      "VARNAME": "Pac Nam",
+      "CENTER": [
+        22.597246453701402,
+        105.67937817818883
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "Bắc Kạn",
+      "NAME": "Thành Phố Bắc Kạn",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Bac Kan",
+      "CENTER": [
+        22.13069455320921,
+        105.8515734451842
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "Bắc Ninh",
+      "NAME": "Bắc Ninh",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Bac Ninh",
+      "CENTER": [
+        21.16567533922467,
+        106.08192910222728
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bắc Ninh",
+      "NAME": "Gia Bình",
+      "TYPE": "Huyện ",
+      "VARNAME": "Gia Binh",
+      "CENTER": [
+        21.056401639459022,
+        106.20537793123214
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bắc Ninh",
+      "NAME": "Lương Tài",
+      "TYPE": "Huyện ",
+      "VARNAME": "Luong Tai",
+      "CENTER": [
+        21.022286408532295,
+        106.20978393258027
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bắc Ninh",
+      "NAME": "Quế Võ",
+      "TYPE": "Huyện ",
+      "VARNAME": "Que Vo",
+      "CENTER": [
+        21.14270464033861,
+        106.15545284964732
+      ]
+    },
+    {
+      "ENGTYPE": "Town",
+      "PROVINCE": "Bắc Ninh",
+      "NAME": "Từ Sơn",
+      "TYPE": "Thị xã",
+      "VARNAME": "Tu Son",
+      "CENTER": [
+        21.12826052944073,
+        105.957342566755
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bắc Ninh",
+      "NAME": "Thuận Thành",
+      "TYPE": "Huyện ",
+      "VARNAME": "Thuan Thanh",
+      "CENTER": [
+        21.02343387215519,
+        106.06991795346696
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bắc Ninh",
+      "NAME": "Tiên Du",
+      "TYPE": "Huyện ",
+      "VARNAME": "Tien Du",
+      "CENTER": [
+        21.129245691449928,
+        106.03095505781042
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bắc Ninh",
+      "NAME": "Yên Phong",
+      "TYPE": "Huyện ",
+      "VARNAME": "Yen Phong",
+      "CENTER": [
+        21.206262578075602,
+        105.9585192297971
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "Bến Tre",
+      "NAME": "Bến Tre",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Ben Tre",
+      "CENTER": [
+        10.237568444560983,
+        106.3761712826475
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bến Tre",
+      "NAME": "Ba Tri",
+      "TYPE": "Huyện ",
+      "VARNAME": "Ba Tri",
+      "CENTER": [
+        10.089414963785238,
+        106.58329218366453
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bến Tre",
+      "NAME": "Bình Đại",
+      "TYPE": "Huyện ",
+      "VARNAME": "Binh Dai",
+      "CENTER": [
+        10.182730027383181,
+        106.6275312078495
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bến Tre",
+      "NAME": "Chợ Lách",
+      "TYPE": "Huyện ",
+      "VARNAME": "Cho Lach",
+      "CENTER": [
+        10.224465852840737,
+        106.17829964119434
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bến Tre",
+      "NAME": "Châu Thành",
+      "TYPE": "Huyện ",
+      "VARNAME": "Chau Thanh",
+      "CENTER": [
+        10.284873657086639,
+        106.32143935217256
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bến Tre",
+      "NAME": "Giồng Trôm",
+      "TYPE": "Huyện ",
+      "VARNAME": "Giong Trom",
+      "CENTER": [
+        10.170160182076057,
+        106.46169048434882
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bến Tre",
+      "NAME": "Mỏ Cày Bắc",
+      "TYPE": "Huyện ",
+      "VARNAME": "Mo Cay Bac",
+      "CENTER": [
+        10.176948343176834,
+        106.27475813946445
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bến Tre",
+      "NAME": "Mỏ Cày Nam",
+      "TYPE": "Huyện ",
+      "VARNAME": "Mo Cay Nam",
+      "CENTER": [
+        10.07095158820148,
+        106.36796626303811
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bến Tre",
+      "NAME": "Thạnh Phú",
+      "TYPE": "Huyện ",
+      "VARNAME": "Thanh Phu",
+      "CENTER": [
+        9.97333830752282,
+        106.48519043634894
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "Bà Rịa - Vũng Tàu",
+      "NAME": "Bà Rịa",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Ba Ria",
+      "CENTER": [
+        10.520889660067649,
+        107.18652746729063
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bà Rịa - Vũng Tàu",
+      "NAME": "Châu Đức",
+      "TYPE": "Huyện ",
+      "VARNAME": "Chau Duc",
+      "CENTER": [
+        10.63934150585854,
+        107.2398391145988
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bà Rịa - Vũng Tàu",
+      "NAME": "Đất Đỏ",
+      "TYPE": "Huyện ",
+      "VARNAME": "Dat Do",
+      "CENTER": [
+        10.508699322032296,
+        107.30128710435176
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bà Rịa - Vũng Tàu",
+      "NAME": "Long Điền",
+      "TYPE": "Huyện ",
+      "VARNAME": "Long Dien",
+      "CENTER": [
+        10.451808030786971,
+        107.2209221895299
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bà Rịa - Vũng Tàu",
+      "NAME": "Tân Thành",
+      "TYPE": "Huyện ",
+      "VARNAME": "Tan Thanh",
+      "CENTER": [
+        10.599658403027007,
+        107.11814231531558
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "Bà Rịa - Vũng Tàu",
+      "NAME": "Vũng Tàu",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Vung Tau",
+      "CENTER": [
+        10.40570448152844,
+        107.10635094203863
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bà Rịa - Vũng Tàu",
+      "NAME": "Xuyên Mộc",
+      "TYPE": "Huyện ",
+      "VARNAME": "Xuyen Moc",
+      "CENTER": [
+        10.645868247905709,
+        107.44375830255314
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bình Định",
+      "NAME": "An Lão",
+      "TYPE": "Huyện ",
+      "VARNAME": "An Lao",
+      "CENTER": [
+        14.549195943919964,
+        108.79935997716001
+      ]
+    },
+    {
+      "ENGTYPE": "Town",
+      "PROVINCE": "Bình Định",
+      "NAME": "An Nhơn",
+      "TYPE": "Thị xã",
+      "VARNAME": "An Nhon",
+      "CENTER": [
+        13.892364295227141,
+        109.08171708465024
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bình Định",
+      "NAME": "Hoài Ân",
+      "TYPE": "Huyện ",
+      "VARNAME": "Hoai An",
+      "CENTER": [
+        14.366231393376076,
+        108.88727643767746
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bình Định",
+      "NAME": "Hoài Nhơn",
+      "TYPE": "Huyện ",
+      "VARNAME": "Hoai Nhon",
+      "CENTER": [
+        14.513266722707353,
+        109.01981402811887
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bình Định",
+      "NAME": "Phù Cát",
+      "TYPE": "Huyện ",
+      "VARNAME": "Phu Cat",
+      "CENTER": [
+        14.051655001024779,
+        109.06400951625423
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bình Định",
+      "NAME": "Phù Mỹ",
+      "TYPE": "Huyện ",
+      "VARNAME": "Phu My",
+      "CENTER": [
+        14.204691955102192,
+        109.11589059849267
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "Bình Định",
+      "NAME": "Qui Nhơn",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Qui Nhon",
+      "CENTER": [
+        13.75216550880151,
+        109.24827752563024
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bình Định",
+      "NAME": "Tây Sơn",
+      "TYPE": "Huyện ",
+      "VARNAME": "Tay Son",
+      "CENTER": [
+        13.955884229774478,
+        108.89030584837764
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bình Định",
+      "NAME": "Tuy Phước",
+      "TYPE": "Huyện ",
+      "VARNAME": "Tuy Phuoc",
+      "CENTER": [
+        13.849123923666307,
+        109.15480816677996
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bình Định",
+      "NAME": "Vân Canh",
+      "TYPE": "Huyện ",
+      "VARNAME": "Van Canh",
+      "CENTER": [
+        13.68602211009066,
+        108.97153860003893
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bình Định",
+      "NAME": "Vĩnh Thạnh",
+      "TYPE": "Huyện ",
+      "VARNAME": "Vinh Thanh",
+      "CENTER": [
+        14.234692303518253,
+        108.75389028970257
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bình Dương",
+      "NAME": "Bắc Tân Uyên",
+      "TYPE": "Huyện ",
+      "VARNAME": "Bac Tan Uyen",
+      "CENTER": [
+        11.155716138770792,
+        106.83853314425711
+      ]
+    },
+    {
+      "ENGTYPE": "Town",
+      "PROVINCE": "Bình Dương",
+      "NAME": "Bến Cát",
+      "TYPE": "Thị xã",
+      "VARNAME": "Ben Cat",
+      "CENTER": [
+        11.128511074687806,
+        106.61006460331855
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bình Dương",
+      "NAME": "Bàu Bàng",
+      "TYPE": "Huyện ",
+      "VARNAME": "Bau Bang",
+      "CENTER": [
+        11.24699707533595,
+        106.58878346305293
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bình Dương",
+      "NAME": "Dầu Tiếng",
+      "TYPE": "Huyện ",
+      "VARNAME": "Dau Tieng",
+      "CENTER": [
+        11.303964465536177,
+        106.47012958474869
+      ]
+    },
+    {
+      "ENGTYPE": "Town",
+      "PROVINCE": "Bình Dương",
+      "NAME": "Dĩ An",
+      "TYPE": "Thị xã",
+      "VARNAME": "Di An",
+      "CENTER": [
+        10.9114629677846,
+        106.78259880783466
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bình Dương",
+      "NAME": "Phú Giáo",
+      "TYPE": "Huyện ",
+      "VARNAME": "Phu Giao",
+      "CENTER": [
+        11.32059896104403,
+        106.8232196218028
+      ]
+    },
+    {
+      "ENGTYPE": "Town",
+      "PROVINCE": "Bình Dương",
+      "NAME": "Tân Uyên",
+      "TYPE": "Thị xã",
+      "VARNAME": "Tan Uyen",
+      "CENTER": [
+        11.053182080246811,
+        106.74151522910334
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "Bình Dương",
+      "NAME": "Thủ Dầu Một",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Thu Dau Mot",
+      "CENTER": [
+        11.029639237474623,
+        106.67050450916624
+      ]
+    },
+    {
+      "ENGTYPE": "Town",
+      "PROVINCE": "Bình Dương",
+      "NAME": "Thuận An",
+      "TYPE": "Thị xã",
+      "VARNAME": "Thuan An",
+      "CENTER": [
+        10.938801162926062,
+        106.7053510557376
+      ]
+    },
+    {
+      "ENGTYPE": "Town",
+      "PROVINCE": "Bình Phước",
+      "NAME": "Bình Long",
+      "TYPE": "Thị xã",
+      "VARNAME": "Binh Long",
+      "CENTER": [
+        11.709436842696546,
+        106.57865470064115
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bình Phước",
+      "NAME": "Bù Đốp",
+      "TYPE": "Huyện ",
+      "VARNAME": "Bu Dop",
+      "CENTER": [
+        12.042623851563684,
+        106.8387501381463
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bình Phước",
+      "NAME": "Bù Đăng",
+      "TYPE": "Huyện ",
+      "VARNAME": "Bu Dang",
+      "CENTER": [
+        11.829902694476516,
+        107.24999530108883
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bình Phước",
+      "NAME": "Bù Gia Mập",
+      "TYPE": "Huyện ",
+      "VARNAME": "Bu Gia Map",
+      "CENTER": [
+        12.052925426325896,
+        107.03073042489942
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bình Phước",
+      "NAME": "Chơn Thành",
+      "TYPE": "Huyện ",
+      "VARNAME": "Chon Thanh",
+      "CENTER": [
+        11.475088885719277,
+        106.66925906985009
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bình Phước",
+      "NAME": "Đồng Phú",
+      "TYPE": "Huyện ",
+      "VARNAME": "Dong Phu",
+      "CENTER": [
+        11.498816044245117,
+        106.93360842541823
+      ]
+    },
+    {
+      "ENGTYPE": "Town",
+      "PROVINCE": "Bình Phước",
+      "NAME": "Đồng Xoài",
+      "TYPE": "Thị xã",
+      "VARNAME": "Dong Xoai",
+      "CENTER": [
+        11.516536115726778,
+        106.8655458321509
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bình Phước",
+      "NAME": "Hớn Quản",
+      "TYPE": "Huyện ",
+      "VARNAME": "Hon Quan",
+      "CENTER": [
+        11.622268437501207,
+        106.5995247917718
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bình Phước",
+      "NAME": "Lộc Ninh",
+      "TYPE": "Huyện ",
+      "VARNAME": "Loc Ninh",
+      "CENTER": [
+        11.866137966335884,
+        106.53507631348704
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bình Phước",
+      "NAME": "Phú Riềng",
+      "TYPE": "Huyện ",
+      "VARNAME": "Phu Rieng",
+      "CENTER": [
+        11.72018146799449,
+        106.89397079628405
+      ]
+    },
+    {
+      "ENGTYPE": "Town",
+      "PROVINCE": "Bình Phước",
+      "NAME": "Phước Long",
+      "TYPE": "Thị xã",
+      "VARNAME": "Phuoc Long",
+      "CENTER": [
+        11.828348611458459,
+        106.9845139994616
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bình Thuận",
+      "NAME": "Bắc Bình",
+      "TYPE": "Huyện ",
+      "VARNAME": "Bac Binh",
+      "CENTER": [
+        11.322273176691292,
+        108.36472621739833
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bình Thuận",
+      "NAME": "Đức Linh",
+      "TYPE": "Huyện ",
+      "VARNAME": "Duc Linh",
+      "CENTER": [
+        11.158635382383329,
+        107.50799918535824
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bình Thuận",
+      "NAME": "Hàm Tân",
+      "TYPE": "Huyện ",
+      "VARNAME": "Ham Tan",
+      "CENTER": [
+        10.736508987796276,
+        107.62919694114373
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bình Thuận",
+      "NAME": "Hàm Thuận Bắc",
+      "TYPE": "Huyện ",
+      "VARNAME": "Ham Thuan Bac",
+      "CENTER": [
+        11.129236142174065,
+        107.99720923646844
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bình Thuận",
+      "NAME": "Hàm Thuận Nam",
+      "TYPE": "Huyện ",
+      "VARNAME": "Ham Thuan Nam",
+      "CENTER": [
+        10.934232752480039,
+        107.90234302060817
+      ]
+    },
+    {
+      "ENGTYPE": "Town",
+      "PROVINCE": "Bình Thuận",
+      "NAME": "La Gi",
+      "TYPE": "Thị xã",
+      "VARNAME": "La Gi",
+      "CENTER": [
+        10.712790352577295,
+        107.79583461029279
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "Bình Thuận",
+      "NAME": "Phan Thiết",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Phan Thiet",
+      "CENTER": [
+        10.937390156895747,
+        108.16712285387236
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bình Thuận",
+      "NAME": "Phú Quí",
+      "TYPE": "Huyện ",
+      "VARNAME": "Phu Qui",
+      "CENTER": [
+        10.519388363322951,
+        108.95426765789028
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bình Thuận",
+      "NAME": "Tánh Linh",
+      "TYPE": "Huyện ",
+      "VARNAME": "Tanh Linh",
+      "CENTER": [
+        11.130684271869834,
+        107.66891485163288
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Bình Thuận",
+      "NAME": "Tuy Phong",
+      "TYPE": "Huyện ",
+      "VARNAME": "Tuy Phong",
+      "CENTER": [
+        11.27784827710624,
+        108.6993464532726
+      ]
+    },
+    {
+      "ENGTYPE": "Urban District",
+      "PROVINCE": "Cần Thơ",
+      "NAME": "Bình Thuỷ",
+      "TYPE": "Quận",
+      "VARNAME": "Binh Thuy",
+      "CENTER": [
+        10.048599217461252,
+        105.70981886126485
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Cần Thơ",
+      "NAME": "Cờ Đỏ",
+      "TYPE": "Huyện ",
+      "VARNAME": "Co Do",
+      "CENTER": [
+        10.169001395754304,
+        105.48045345876793
+      ]
+    },
+    {
+      "ENGTYPE": "Urban District",
+      "PROVINCE": "Cần Thơ",
+      "NAME": "Cái Răng",
+      "TYPE": "Quận",
+      "VARNAME": "Cai Rang",
+      "CENTER": [
+        9.994402977929088,
+        105.7627017223612
+      ]
+    },
+    {
+      "ENGTYPE": "Urban District",
+      "PROVINCE": "Cần Thơ",
+      "NAME": "Ninh Kiều",
+      "TYPE": "Quận",
+      "VARNAME": "Ninh Kieu",
+      "CENTER": [
+        10.022193523360858,
+        105.75142552838464
+      ]
+    },
+    {
+      "ENGTYPE": "Urban District",
+      "PROVINCE": "Cần Thơ",
+      "NAME": "Ô Môn",
+      "TYPE": "Quận",
+      "VARNAME": "O Mon",
+      "CENTER": [
+        10.108371971873867,
+        105.63730767462594
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Cần Thơ",
+      "NAME": "Phong Điền",
+      "TYPE": "Huyện ",
+      "VARNAME": "Phong Dien",
+      "CENTER": [
+        10.001898058285205,
+        105.67260702139642
+      ]
+    },
+    {
+      "ENGTYPE": "Urban District",
+      "PROVINCE": "Cần Thơ",
+      "NAME": "Thốt Nốt",
+      "TYPE": "Quận",
+      "VARNAME": "Thot Not",
+      "CENTER": [
+        10.234780552637593,
+        105.53692083199732
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Cần Thơ",
+      "NAME": "Thới Lai",
+      "TYPE": "Huyện ",
+      "VARNAME": "Thoi Lai",
+      "CENTER": [
+        10.037681459448887,
+        105.57039831463605
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Cần Thơ",
+      "NAME": "Vĩnh Thạnh",
+      "TYPE": "Huyện ",
+      "VARNAME": "Vinh Thanh",
+      "CENTER": [
+        10.235220630778239,
+        105.42929463094194
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "Cà Mau",
+      "NAME": "Cà Mau",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Ca Mau",
+      "CENTER": [
+        9.177926356560219,
+        105.20003307021457
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Cà Mau",
+      "NAME": "Cái Nước",
+      "TYPE": "Huyện ",
+      "VARNAME": "Cai Nuoc",
+      "CENTER": [
+        8.995922566793963,
+        105.03540063259217
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Cà Mau",
+      "NAME": "Đầm Dơi",
+      "TYPE": "Huyện ",
+      "VARNAME": "Dam Doi",
+      "CENTER": [
+        8.976845382034774,
+        105.25349512075216
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Cà Mau",
+      "NAME": "Năm Căn",
+      "TYPE": "Huyện ",
+      "VARNAME": "Nam Can",
+      "CENTER": [
+        8.794128274512003,
+        105.05232937401696
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Cà Mau",
+      "NAME": "Ngọc Hiển",
+      "TYPE": "Huyện ",
+      "VARNAME": "Ngoc Hien",
+      "CENTER": [
+        8.606640514468111,
+        104.95603598052621
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Cà Mau",
+      "NAME": "Phú Tân",
+      "TYPE": "Huyện ",
+      "VARNAME": "Phu Tan",
+      "CENTER": [
+        8.910353528789125,
+        104.89532743562229
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Cà Mau",
+      "NAME": "Thới Bình",
+      "TYPE": "Huyện ",
+      "VARNAME": "Thoi Binh",
+      "CENTER": [
+        9.313842580530133,
+        105.15215464294349
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Cà Mau",
+      "NAME": "Trần Văn Thời",
+      "TYPE": "Huyện ",
+      "VARNAME": "Tran Van Thoi",
+      "CENTER": [
+        9.075721307756888,
+        104.90272918383963
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Cà Mau",
+      "NAME": "U Minh",
+      "TYPE": "Huyện ",
+      "VARNAME": "U Minh",
+      "CENTER": [
+        9.359711627280802,
+        104.9279740422836
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Cao Bằng",
+      "NAME": "Bảo Lạc",
+      "TYPE": "Huyện ",
+      "VARNAME": "Bao Lac",
+      "CENTER": [
+        22.920648440597414,
+        105.71411783619395
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Cao Bằng",
+      "NAME": "Bảo Lâm",
+      "TYPE": "Huyện ",
+      "VARNAME": "Bao Lam",
+      "CENTER": [
+        22.893608119052626,
+        105.4908329654406
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "Cao Bằng",
+      "NAME": "Cao Bằng",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Cao Bang",
+      "CENTER": [
+        22.654244804513617,
+        106.25523573875256
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Cao Bằng",
+      "NAME": "Hạ Lang",
+      "TYPE": "Huyện ",
+      "VARNAME": "Ha Lang",
+      "CENTER": [
+        22.711867445390766,
+        106.7150053978361
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Cao Bằng",
+      "NAME": "Hà Quảng",
+      "TYPE": "Huyện ",
+      "VARNAME": "Ha Quang",
+      "CENTER": [
+        22.937013050219846,
+        106.10732074817388
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Cao Bằng",
+      "NAME": "Hoà An",
+      "TYPE": "Huyện ",
+      "VARNAME": "Hoa An",
+      "CENTER": [
+        22.67144680361904,
+        106.21128205290874
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Cao Bằng",
+      "NAME": "Nguyên Bình",
+      "TYPE": "Huyện ",
+      "VARNAME": "Nguyen Binh",
+      "CENTER": [
+        22.63144316994213,
+        105.94178585466969
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Cao Bằng",
+      "NAME": "Phục Hoà",
+      "TYPE": "Huyện ",
+      "VARNAME": "Phuc Hoa",
+      "CENTER": [
+        22.561833434471907,
+        106.53191478854393
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Cao Bằng",
+      "NAME": "Quảng Uyên",
+      "TYPE": "Huyện ",
+      "VARNAME": "Quang Uyen",
+      "CENTER": [
+        22.671256476913392,
+        106.45169578393443
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Cao Bằng",
+      "NAME": "Thạch An",
+      "TYPE": "Huyện ",
+      "VARNAME": "Thach An",
+      "CENTER": [
+        22.46650548745724,
+        106.340624694811
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Cao Bằng",
+      "NAME": "Thông Nông",
+      "TYPE": "Huyện ",
+      "VARNAME": "Thong Nong",
+      "CENTER": [
+        22.83173327444679,
+        105.93258069574851
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Cao Bằng",
+      "NAME": "Trà Lĩnh",
+      "TYPE": "Huyện ",
+      "VARNAME": "Tra Linh",
+      "CENTER": [
+        22.836762303155254,
+        106.33274228604267
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Cao Bằng",
+      "NAME": "Trùng Khánh",
+      "TYPE": "Huyện ",
+      "VARNAME": "Trung Khanh",
+      "CENTER": [
+        22.872792022545113,
+        106.55721224151466
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Đắk Lắk",
+      "NAME": "Buôn Đôn",
+      "TYPE": "Huyện ",
+      "VARNAME": "Buon Don",
+      "CENTER": [
+        12.868958712933184,
+        107.73756221330099
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "Đắk Lắk",
+      "NAME": "Buôn Ma Thuột",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Buon Ma Thuot",
+      "CENTER": [
+        12.655232382803222,
+        108.03433085466786
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Đắk Lắk",
+      "NAME": "Cư Kuin",
+      "TYPE": "Huyện ",
+      "VARNAME": "Cu Kuin",
+      "CENTER": [
+        12.583289152221624,
+        108.16159989829592
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Đắk Lắk",
+      "NAME": "Cư M'gar",
+      "TYPE": "Huyện ",
+      "VARNAME": "Cu M'gar",
+      "CENTER": [
+        12.896581513927106,
+        108.0639814117853
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Đắk Lắk",
+      "NAME": "Ea H'leo",
+      "TYPE": "Huyện ",
+      "VARNAME": "Ea H'leo",
+      "CENTER": [
+        13.218481606042056,
+        108.16642231416532
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Đắk Lắk",
+      "NAME": "Ea Kar",
+      "TYPE": "Huyện ",
+      "VARNAME": "Ea Kar",
+      "CENTER": [
+        12.781500770466272,
+        108.54916812406097
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Đắk Lắk",
+      "NAME": "Ea Súp",
+      "TYPE": "Huyện ",
+      "VARNAME": "Ea Sup",
+      "CENTER": [
+        13.17368351452996,
+        107.8615717150544
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Đắk Lắk",
+      "NAME": "Krông A Na",
+      "TYPE": "Huyện ",
+      "VARNAME": "Krong A Na",
+      "CENTER": [
+        12.481538679670091,
+        108.03903205638753
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Đắk Lắk",
+      "NAME": "Krông Bông",
+      "TYPE": "Huyện ",
+      "VARNAME": "Krong Bong",
+      "CENTER": [
+        12.465970281403242,
+        108.48092507481009
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Đắk Lắk",
+      "NAME": "Krông Búk",
+      "TYPE": "Huyện ",
+      "VARNAME": "Krong Buk",
+      "CENTER": [
+        13.026318113175028,
+        108.20208570626609
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Đắk Lắk",
+      "NAME": "Krông Năng",
+      "TYPE": "Huyện ",
+      "VARNAME": "Krong Nang",
+      "CENTER": [
+        13.01870703883908,
+        108.39825982103962
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Đắk Lắk",
+      "NAME": "Krông Pắc",
+      "TYPE": "Huyện ",
+      "VARNAME": "Krong Pac",
+      "CENTER": [
+        12.670334890491,
+        108.35872524455482
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Đắk Lắk",
+      "NAME": "Lắk",
+      "TYPE": "Huyện ",
+      "VARNAME": "Lak",
+      "CENTER": [
+        12.326385989172689,
+        108.21707321283013
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Đắk Lắk",
+      "NAME": "M'Đrắk",
+      "TYPE": "Huyện ",
+      "VARNAME": "M'Drak",
+      "CENTER": [
+        12.696287684127435,
+        108.78051291228414
+      ]
+    },
+    {
+      "ENGTYPE": "Town",
+      "PROVINCE": "Đắk Lắk",
+      "NAME": "Thị Xã Buôn Hồ",
+      "TYPE": "Thị xã",
+      "VARNAME": "Buon Ho",
+      "CENTER": [
+        12.867174586926197,
+        108.27095027452788
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Đắk Nông",
+      "NAME": "Cư Jút",
+      "TYPE": "Huyện ",
+      "VARNAME": "Cu Jut",
+      "CENTER": [
+        12.693723652422657,
+        107.73474905101506
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Đắk Nông",
+      "NAME": "Đắk Mil",
+      "TYPE": "Huyện ",
+      "VARNAME": "Dak Mil",
+      "CENTER": [
+        12.533398181955109,
+        107.65113505889977
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Đắk Nông",
+      "NAME": "Đắk R'Lấp",
+      "TYPE": "Huyện ",
+      "VARNAME": "Dak R'Lap",
+      "CENTER": [
+        11.921469796036547,
+        107.50480885992766
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Đắk Nông",
+      "NAME": "Đắk Song",
+      "TYPE": "Huyện ",
+      "VARNAME": "Dak Song",
+      "CENTER": [
+        12.24968423000434,
+        107.58445741354552
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Đắk Nông",
+      "NAME": "Đăk Glong",
+      "TYPE": "Huyện ",
+      "VARNAME": "Dak Glong",
+      "CENTER": [
+        12.056255928100729,
+        107.94087427177992
+      ]
+    },
+    {
+      "ENGTYPE": "Town",
+      "PROVINCE": "Đắk Nông",
+      "NAME": "Gia Nghĩa",
+      "TYPE": "Thị xã",
+      "VARNAME": "Gia Nghia",
+      "CENTER": [
+        12.005526294854334,
+        107.66753709266791
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Đắk Nông",
+      "NAME": "Krông Nô",
+      "TYPE": "Huyện ",
+      "VARNAME": "Krong No",
+      "CENTER": [
+        12.362466001417216,
+        107.8932561564049
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Đắk Nông",
+      "NAME": "Tuy Đức",
+      "TYPE": "Huyện ",
+      "VARNAME": "Tuy Duc",
+      "CENTER": [
+        12.17622462558846,
+        107.34587717245691
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "Đồng Nai",
+      "NAME": "Biên Hòa",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Bien Hoa",
+      "CENTER": [
+        10.9361071193774,
+        106.86094702902336
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Đồng Nai",
+      "NAME": "Cẩm Mỹ",
+      "TYPE": "Huyện ",
+      "VARNAME": "Cam My",
+      "CENTER": [
+        10.795963958650622,
+        107.22229571466913
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Đồng Nai",
+      "NAME": "Định Quán",
+      "TYPE": "Huyện ",
+      "VARNAME": "Dinh Quan",
+      "CENTER": [
+        11.189217701834892,
+        107.28693373895177
+      ]
+    },
+    {
+      "ENGTYPE": "Town",
+      "PROVINCE": "Đồng Nai",
+      "NAME": "Long Khánh",
+      "TYPE": "Thị xã",
+      "VARNAME": "Long Khanh",
+      "CENTER": [
+        10.935812403198524,
+        107.24641673468753
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Đồng Nai",
+      "NAME": "Long Thành",
+      "TYPE": "Huyện ",
+      "VARNAME": "Long Thanh",
+      "CENTER": [
+        10.773442135169299,
+        107.04021714673104
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Đồng Nai",
+      "NAME": "Nhơn Trạch",
+      "TYPE": "Huyện ",
+      "VARNAME": "Nhon Trach",
+      "CENTER": [
+        10.702407784325425,
+        106.9125210738777
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Đồng Nai",
+      "NAME": "Tân Phú",
+      "TYPE": "Huyện ",
+      "VARNAME": "Tan Phu",
+      "CENTER": [
+        11.364195486747048,
+        107.37784435289716
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Đồng Nai",
+      "NAME": "Thống Nhất",
+      "TYPE": "Huyện ",
+      "VARNAME": "Thong Nhat",
+      "CENTER": [
+        10.956477683932523,
+        107.14035928428675
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Đồng Nai",
+      "NAME": "Trảng Bom",
+      "TYPE": "Huyện ",
+      "VARNAME": "Trang Bom",
+      "CENTER": [
+        10.979318641275906,
+        107.02536728433267
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Đồng Nai",
+      "NAME": "Vĩnh Cửu",
+      "TYPE": "Huyện ",
+      "VARNAME": "Vinh Cuu",
+      "CENTER": [
+        11.247437451846102,
+        107.02610904796465
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Đồng Nai",
+      "NAME": "Xuân Lộc",
+      "TYPE": "Huyện ",
+      "VARNAME": "Xuan Loc",
+      "CENTER": [
+        10.945912740268435,
+        107.38123899295778
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Đồng Tháp",
+      "NAME": "Cao Lãnh",
+      "TYPE": "Huyện ",
+      "VARNAME": "Cao Lanh",
+      "CENTER": [
+        10.482395421832392,
+        105.68637989550486
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "Đồng Tháp",
+      "NAME": "Cao Lãnh (Thành phố)",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Cao Lanh",
+      "CENTER": [
+        10.46378811388688,
+        105.63188866231698
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Đồng Tháp",
+      "NAME": "Châu Thành",
+      "TYPE": "Huyện ",
+      "VARNAME": "Chau Thanh",
+      "CENTER": [
+        10.231542380670023,
+        105.81154449826626
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Đồng Tháp",
+      "NAME": "Hồng Ngự",
+      "TYPE": "Huyện ",
+      "VARNAME": "Hong Ngu",
+      "CENTER": [
+        10.836698678975829,
+        105.28948653082914
+      ]
+    },
+    {
+      "ENGTYPE": "Town",
+      "PROVINCE": "Đồng Tháp",
+      "NAME": "Hồng Ngự (Thị xã)",
+      "TYPE": "Thị xã",
+      "VARNAME": "Hong Ngu",
+      "CENTER": [
+        10.848577875808651,
+        105.35255678634441
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Đồng Tháp",
+      "NAME": "Lấp Vò",
+      "TYPE": "Huyện ",
+      "VARNAME": "Lap Vo",
+      "CENTER": [
+        10.349393125258795,
+        105.59735814597822
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Đồng Tháp",
+      "NAME": "Lai Vung",
+      "TYPE": "Huyện ",
+      "VARNAME": "Lai Vung",
+      "CENTER": [
+        10.287267144535488,
+        105.66831284848834
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "Đồng Tháp",
+      "NAME": "Sa Đéc",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Sa Dec",
+      "CENTER": [
+        10.30952013170497,
+        105.73533901643206
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Đồng Tháp",
+      "NAME": "Tam Nông",
+      "TYPE": "Huyện ",
+      "VARNAME": "Tam Nong",
+      "CENTER": [
+        10.71285442446343,
+        105.49949024209145
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Đồng Tháp",
+      "NAME": "Tân Hồng",
+      "TYPE": "Huyện ",
+      "VARNAME": "Tan Hong",
+      "CENTER": [
+        10.925720897358579,
+        105.43006919707754
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Đồng Tháp",
+      "NAME": "Thanh Bình",
+      "TYPE": "Huyện ",
+      "VARNAME": "Thanh Binh",
+      "CENTER": [
+        10.607785155890756,
+        105.46520433799981
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Đồng Tháp",
+      "NAME": "Tháp Mười",
+      "TYPE": "Huyện ",
+      "VARNAME": "Thap Muoi",
+      "CENTER": [
+        10.605066844937005,
+        105.7479416687046
+      ]
+    },
+    {
+      "ENGTYPE": "Urban District",
+      "PROVINCE": "Đà Nẵng",
+      "NAME": "Cẩm Lệ",
+      "TYPE": "Quận",
+      "VARNAME": "Cam Le",
+      "CENTER": [
+        16.012390815177987,
+        108.20091720572222
+      ]
+    },
+    {
+      "ENGTYPE": "Urban District",
+      "PROVINCE": "Đà Nẵng",
+      "NAME": "Hải Châu",
+      "TYPE": "Quận",
+      "VARNAME": "Hai Chau",
+      "CENTER": [
+        16.05485897957234,
+        108.20976761240743
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Đà Nẵng",
+      "NAME": "Hòa Vang",
+      "TYPE": "Huyện ",
+      "VARNAME": "Hoa Vang",
+      "CENTER": [
+        16.04035937214269,
+        108.05392789028728
+      ]
+    },
+    {
+      "ENGTYPE": "Urban District",
+      "PROVINCE": "Đà Nẵng",
+      "NAME": "Liên Chiểu",
+      "TYPE": "Quận",
+      "VARNAME": "Lien Chieu",
+      "CENTER": [
+        16.136862536037263,
+        108.14637243064698
+      ]
+    },
+    {
+      "ENGTYPE": "Urban District",
+      "PROVINCE": "Đà Nẵng",
+      "NAME": "Ngũ Hành Sơn",
+      "TYPE": "Quận",
+      "VARNAME": "Ngu Hanh Son",
+      "CENTER": [
+        15.994783329706213,
+        108.24002978718926
+      ]
+    },
+    {
+      "ENGTYPE": "Urban District",
+      "PROVINCE": "Đà Nẵng",
+      "NAME": "Sơn Trà",
+      "TYPE": "Quận",
+      "VARNAME": "Son Tra",
+      "CENTER": [
+        16.110471692525245,
+        108.25471738105249
+      ]
+    },
+    {
+      "ENGTYPE": "Urban District",
+      "PROVINCE": "Đà Nẵng",
+      "NAME": "Thanh Khê",
+      "TYPE": "Quận",
+      "VARNAME": "Thanh Khe",
+      "CENTER": [
+        16.062515724974677,
+        108.19592819940215
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Điện Biên",
+      "NAME": "Điện Biên",
+      "TYPE": "Huyện ",
+      "VARNAME": "Dien Bien",
+      "CENTER": [
+        21.275991680745705,
+        102.97832420924573
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Điện Biên",
+      "NAME": "Điện Biên Đông",
+      "TYPE": "Huyện ",
+      "VARNAME": "Dien Bien Dong",
+      "CENTER": [
+        21.224184982762942,
+        103.25435921569503
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "Điện Biên",
+      "NAME": "Điện Biên Phủ",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Dien Bien Phu",
+      "CENTER": [
+        21.40200976446725,
+        103.0355433498346
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Điện Biên",
+      "NAME": "Mường Ảng",
+      "TYPE": "Huyện ",
+      "VARNAME": "Muong Ang",
+      "CENTER": [
+        21.51490709470054,
+        103.26401749160677
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Điện Biên",
+      "NAME": "Mường Chà",
+      "TYPE": "Huyện ",
+      "VARNAME": "Muong Cha",
+      "CENTER": [
+        21.781826046877466,
+        103.07932490039559
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Điện Biên",
+      "NAME": "Mường Nhé",
+      "TYPE": "Huyện ",
+      "VARNAME": "Muong Nhe",
+      "CENTER": [
+        22.243151166188483,
+        102.38284446617725
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Điện Biên",
+      "NAME": "Nậm Pồ",
+      "TYPE": "Huyện ",
+      "VARNAME": "Nam Po",
+      "CENTER": [
+        21.882906118676015,
+        102.77596007356883
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Điện Biên",
+      "NAME": "Tủa Chùa",
+      "TYPE": "Huyện ",
+      "VARNAME": "Tua Chua",
+      "CENTER": [
+        21.953319411880752,
+        103.37470682186921
+      ]
+    },
+    {
+      "ENGTYPE": "Town",
+      "PROVINCE": "Điện Biên",
+      "NAME": "Thị Xã Mường Lay",
+      "TYPE": "Thị xã",
+      "VARNAME": "Muong Lay",
+      "CENTER": [
+        22.02869904189505,
+        103.13095514715393
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Điện Biên",
+      "NAME": "Tuần Giáo",
+      "TYPE": "Huyện ",
+      "VARNAME": "Tuan Giao",
+      "CENTER": [
+        21.661863195854036,
+        103.39182098883589
+      ]
+    },
+    {
+      "ENGTYPE": "Town",
+      "PROVINCE": "Gia Lai",
+      "NAME": "An Khê",
+      "TYPE": "Thị xã",
+      "VARNAME": "An Khe",
+      "CENTER": [
+        14.00402090611067,
+        108.68198756353165
+      ]
+    },
+    {
+      "ENGTYPE": "Town",
+      "PROVINCE": "Gia Lai",
+      "NAME": "Ayun Pa",
+      "TYPE": "Thị xã",
+      "VARNAME": "Ayun Pa",
+      "CENTER": [
+        13.34158713967142,
+        108.41698515319584
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Gia Lai",
+      "NAME": "Chư Păh",
+      "TYPE": "Huyện ",
+      "VARNAME": "Chu Pah",
+      "CENTER": [
+        14.204173960094401,
+        107.98659947765678
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Gia Lai",
+      "NAME": "Chư Prông",
+      "TYPE": "Huyện ",
+      "VARNAME": "Chu Prong",
+      "CENTER": [
+        13.626740335180283,
+        107.83000554521053
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Gia Lai",
+      "NAME": "Chư Pưh",
+      "TYPE": "Huyện ",
+      "VARNAME": "Chu Puh",
+      "CENTER": [
+        13.481141171765133,
+        108.06234314429194
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Gia Lai",
+      "NAME": "Chư Sê",
+      "TYPE": "Huyện ",
+      "VARNAME": "Chu Se",
+      "CENTER": [
+        13.698856591090308,
+        108.09602470773106
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Gia Lai",
+      "NAME": "Đức Cơ",
+      "TYPE": "Huyện ",
+      "VARNAME": "Duc Co",
+      "CENTER": [
+        13.792252938458509,
+        107.68055189427767
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Gia Lai",
+      "NAME": "Đăk Đoa",
+      "TYPE": "Huyện ",
+      "VARNAME": "Dak Doa",
+      "CENTER": [
+        14.084353685261487,
+        108.17087503048339
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Gia Lai",
+      "NAME": "Đăk Pơ",
+      "TYPE": "Huyện ",
+      "VARNAME": "Dak Po",
+      "CENTER": [
+        13.920340031784301,
+        108.61291230121424
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Gia Lai",
+      "NAME": "Ia Grai",
+      "TYPE": "Huyện ",
+      "VARNAME": "Ia Grai",
+      "CENTER": [
+        13.967794262199972,
+        107.73435426754419
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Gia Lai",
+      "NAME": "Ia Pa",
+      "TYPE": "Huyện ",
+      "VARNAME": "Ia Pa",
+      "CENTER": [
+        13.5090321206654,
+        108.49709647296409
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Gia Lai",
+      "NAME": "KBang",
+      "TYPE": "Huyện ",
+      "VARNAME": "KBang",
+      "CENTER": [
+        14.292821078703456,
+        108.51745802261169
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Gia Lai",
+      "NAME": "Kông Chro",
+      "TYPE": "Huyện ",
+      "VARNAME": "Kong Chro",
+      "CENTER": [
+        13.77566082615448,
+        108.60288142830584
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Gia Lai",
+      "NAME": "Krông Pa",
+      "TYPE": "Huyện ",
+      "VARNAME": "Krong Pa",
+      "CENTER": [
+        13.252597452827848,
+        108.6674585443843
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Gia Lai",
+      "NAME": "Mang Yang",
+      "TYPE": "Huyện ",
+      "VARNAME": "Mang Yang",
+      "CENTER": [
+        13.95524443774386,
+        108.28831927646549
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Gia Lai",
+      "NAME": "Phú Thiện",
+      "TYPE": "Huyện ",
+      "VARNAME": "Phu Thien",
+      "CENTER": [
+        13.45450761688446,
+        108.34088542100909
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "Gia Lai",
+      "NAME": "Pleiku",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Pleiku",
+      "CENTER": [
+        13.956860462046665,
+        107.97770134570412
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hải Dương",
+      "NAME": "Bình Giang",
+      "TYPE": "Huyện ",
+      "VARNAME": "Binh Giang",
+      "CENTER": [
+        20.873506595142164,
+        106.18289536869575
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hải Dương",
+      "NAME": "Cẩm Giàng",
+      "TYPE": "Huyện ",
+      "VARNAME": "Cam Giang",
+      "CENTER": [
+        20.961294365840594,
+        106.20655247211053
+      ]
+    },
+    {
+      "ENGTYPE": "Town",
+      "PROVINCE": "Hải Dương",
+      "NAME": "Chí Linh",
+      "TYPE": "Thị xã",
+      "VARNAME": "Chi Linh",
+      "CENTER": [
+        21.14446874930385,
+        106.41093754086069
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hải Dương",
+      "NAME": "Gia Lộc",
+      "TYPE": "Huyện ",
+      "VARNAME": "Gia Loc",
+      "CENTER": [
+        20.843461835903035,
+        106.29358464813926
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "Hải Dương",
+      "NAME": "Hải Dương",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Hai Duong",
+      "CENTER": [
+        20.944509492134877,
+        106.3296340368708
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hải Dương",
+      "NAME": "Kim Thành",
+      "TYPE": "Huyện ",
+      "VARNAME": "Kim Thanh",
+      "CENTER": [
+        20.933928001076662,
+        106.49189191352502
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hải Dương",
+      "NAME": "Kinh Môn",
+      "TYPE": "Huyện ",
+      "VARNAME": "Kinh Mon",
+      "CENTER": [
+        21.001894451378757,
+        106.51406277295214
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hải Dương",
+      "NAME": "Nam Sách",
+      "TYPE": "Huyện ",
+      "VARNAME": "Nam Sach",
+      "CENTER": [
+        20.999543512181344,
+        106.34027711124789
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hải Dương",
+      "NAME": "Ninh Giang",
+      "TYPE": "Huyện ",
+      "VARNAME": "Ninh Giang",
+      "CENTER": [
+        20.75517327352007,
+        106.33031937308485
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hải Dương",
+      "NAME": "Tứ Kỳ",
+      "TYPE": "Huyện ",
+      "VARNAME": "Tu Ky",
+      "CENTER": [
+        20.811333713166707,
+        106.38703724011152
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hải Dương",
+      "NAME": "Thanh Hà",
+      "TYPE": "Huyện ",
+      "VARNAME": "Thanh Ha",
+      "CENTER": [
+        20.896550275145824,
+        106.42787113914203
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hải Dương",
+      "NAME": "Thanh Miện",
+      "TYPE": "Huyện ",
+      "VARNAME": "Thanh Mien",
+      "CENTER": [
+        20.78050549378486,
+        106.22358752305792
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hải Phòng",
+      "NAME": "An Dương",
+      "TYPE": "Huyện ",
+      "VARNAME": "An Duong",
+      "CENTER": [
+        20.890660785087103,
+        106.5779472956842
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hải Phòng",
+      "NAME": "An Lão",
+      "TYPE": "Huyện ",
+      "VARNAME": "An Lao",
+      "CENTER": [
+        20.805204766141735,
+        106.56429650491268
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hải Phòng",
+      "NAME": "Bạch Long Vĩ",
+      "TYPE": "Huyện ",
+      "VARNAME": "Bach Long Vi",
+      "CENTER": [
+        20.141651307131642,
+        107.71963791309176
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hải Phòng",
+      "NAME": "Cát Hải",
+      "TYPE": "Huyện ",
+      "VARNAME": "Cat Hai",
+      "CENTER": [
+        20.768519075637663,
+        107.03310273110235
+      ]
+    },
+    {
+      "ENGTYPE": "Urban District",
+      "PROVINCE": "Hải Phòng",
+      "NAME": "Đồ Sơn",
+      "TYPE": "Quận",
+      "VARNAME": "Do Son",
+      "CENTER": [
+        20.708215040354165,
+        106.77026290980046
+      ]
+    },
+    {
+      "ENGTYPE": "Urban District",
+      "PROVINCE": "Hải Phòng",
+      "NAME": "Dương Kinh",
+      "TYPE": "Quận",
+      "VARNAME": "Duong Kinh",
+      "CENTER": [
+        20.785196320451377,
+        106.69923661531541
+      ]
+    },
+    {
+      "ENGTYPE": "Urban District",
+      "PROVINCE": "Hải Phòng",
+      "NAME": "Hải An",
+      "TYPE": "Quận",
+      "VARNAME": "Hai An",
+      "CENTER": [
+        20.828907070301618,
+        106.73365320874825
+      ]
+    },
+    {
+      "ENGTYPE": "Urban District",
+      "PROVINCE": "Hải Phòng",
+      "NAME": "Hồng Bàng",
+      "TYPE": "Quận",
+      "VARNAME": "Hong Bang",
+      "CENTER": [
+        20.87811299567543,
+        106.63295261169229
+      ]
+    },
+    {
+      "ENGTYPE": "Urban District",
+      "PROVINCE": "Hải Phòng",
+      "NAME": "Kiến An",
+      "TYPE": "Quận",
+      "VARNAME": "Kien An",
+      "CENTER": [
+        20.800786957560643,
+        106.63987468203875
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hải Phòng",
+      "NAME": "Kiến Thuỵ",
+      "TYPE": "Huyện ",
+      "VARNAME": "Kien Thuy",
+      "CENTER": [
+        20.746050661150797,
+        106.66524569587838
+      ]
+    },
+    {
+      "ENGTYPE": "Urban District",
+      "PROVINCE": "Hải Phòng",
+      "NAME": "Lê Chân",
+      "TYPE": "Quận",
+      "VARNAME": "Le Chan",
+      "CENTER": [
+        20.84469781886457,
+        106.68219386816818
+      ]
+    },
+    {
+      "ENGTYPE": "Urban District",
+      "PROVINCE": "Hải Phòng",
+      "NAME": "Ngô Quyền",
+      "TYPE": "Quận",
+      "VARNAME": "Ngo Quyen",
+      "CENTER": [
+        20.851226960510637,
+        106.69998667429523
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hải Phòng",
+      "NAME": "Thuỷ Nguyên",
+      "TYPE": "Huyện ",
+      "VARNAME": "Thuy Nguyen",
+      "CENTER": [
+        20.95091918237129,
+        106.65781134994619
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hải Phòng",
+      "NAME": "Tiên Lãng",
+      "TYPE": "Huyện ",
+      "VARNAME": "Tien Lang",
+      "CENTER": [
+        20.713491284150294,
+        106.56793961332032
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hải Phòng",
+      "NAME": "Vĩnh Bảo",
+      "TYPE": "Huyện ",
+      "VARNAME": "Vinh Bao",
+      "CENTER": [
+        20.682984336928165,
+        106.48815234421977
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hậu Giang",
+      "NAME": "Châu Thành",
+      "TYPE": "Huyện ",
+      "VARNAME": "Chau Thanh",
+      "CENTER": [
+        9.906367494547792,
+        105.80861085091757
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hậu Giang",
+      "NAME": "Châu Thành A",
+      "TYPE": "Huyện ",
+      "VARNAME": "Chau Thanh A",
+      "CENTER": [
+        9.945938230836415,
+        105.66592192594062
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hậu Giang",
+      "NAME": "Long Mỹ",
+      "TYPE": "Huyện ",
+      "VARNAME": "Long My",
+      "CENTER": [
+        9.649687591227067,
+        105.45373604959879
+      ]
+    },
+    {
+      "ENGTYPE": "Town",
+      "PROVINCE": "Hậu Giang",
+      "NAME": "Long Mỹ (Thị xã)",
+      "TYPE": "Thị xã",
+      "VARNAME": "Long My",
+      "CENTER": [
+        9.691021863431592,
+        105.60390120628992
+      ]
+    },
+    {
+      "ENGTYPE": "Town",
+      "PROVINCE": "Hậu Giang",
+      "NAME": "Ngã Bảy",
+      "TYPE": "Thị xã",
+      "VARNAME": "Nga Bay",
+      "CENTER": [
+        9.840116103976184,
+        105.81465731475289
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hậu Giang",
+      "NAME": "Phụng Hiệp",
+      "TYPE": "Huyện ",
+      "VARNAME": "Phung Hiep",
+      "CENTER": [
+        9.819237454083192,
+        105.71592694603852
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "Hậu Giang",
+      "NAME": "Vị Thanh",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Vi Thanh",
+      "CENTER": [
+        9.748445982459486,
+        105.42434237861971
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hậu Giang",
+      "NAME": "Vị Thuỷ",
+      "TYPE": "Huyện ",
+      "VARNAME": "Vi Thuy",
+      "CENTER": [
+        9.75909919748427,
+        105.51792002568192
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hồ Chí Minh",
+      "NAME": "Bình Chánh",
+      "TYPE": "Huyện ",
+      "VARNAME": "Binh Chanh",
+      "CENTER": [
+        10.708557336791975,
+        106.60386145469909
+      ]
+    },
+    {
+      "ENGTYPE": "Urban District",
+      "PROVINCE": "Hồ Chí Minh",
+      "NAME": "Bình Tân",
+      "TYPE": "Quận",
+      "VARNAME": "Binh Tan",
+      "CENTER": [
+        10.770308599108235,
+        106.59310817710013
+      ]
+    },
+    {
+      "ENGTYPE": "Urban District",
+      "PROVINCE": "Hồ Chí Minh",
+      "NAME": "Bình Thạnh",
+      "TYPE": "Quận",
+      "VARNAME": "Binh Thanh",
+      "CENTER": [
+        10.812372392941464,
+        106.70956097880507
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hồ Chí Minh",
+      "NAME": "Cần Giờ",
+      "TYPE": "Huyện ",
+      "VARNAME": "Can Gio",
+      "CENTER": [
+        10.566670263326095,
+        106.88257377605963
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hồ Chí Minh",
+      "NAME": "Củ Chi",
+      "TYPE": "Huyện ",
+      "VARNAME": "Cu Chi",
+      "CENTER": [
+        11.039282017899406,
+        106.50912135118811
+      ]
+    },
+    {
+      "ENGTYPE": "Urban District",
+      "PROVINCE": "Hồ Chí Minh",
+      "NAME": "Gò Vấp",
+      "TYPE": "Quận",
+      "VARNAME": "Go Vap",
+      "CENTER": [
+        10.8365284987776,
+        106.67047253634212
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hồ Chí Minh",
+      "NAME": "Hóc Môn",
+      "TYPE": "Huyện ",
+      "VARNAME": "Hoc Mon",
+      "CENTER": [
+        10.884296516470224,
+        106.60762456725769
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hồ Chí Minh",
+      "NAME": "Nhà Bè",
+      "TYPE": "Huyện ",
+      "VARNAME": "Nha Be",
+      "CENTER": [
+        10.64997943838137,
+        106.72511404604947
+      ]
+    },
+    {
+      "ENGTYPE": "Urban District",
+      "PROVINCE": "Hồ Chí Minh",
+      "NAME": "Phú Nhuận",
+      "TYPE": "Quận",
+      "VARNAME": "Phu Nhuan",
+      "CENTER": [
+        10.80087399157676,
+        106.67863769431263
+      ]
+    },
+    {
+      "ENGTYPE": "Urban District",
+      "PROVINCE": "Hồ Chí Minh",
+      "NAME": "Quận 1",
+      "TYPE": "Quận",
+      "VARNAME": "District 1",
+      "CENTER": [
+        10.779242076664884,
+        106.69547113654161
+      ]
+    },
+    {
+      "ENGTYPE": "Urban District",
+      "PROVINCE": "Hồ Chí Minh",
+      "NAME": "Quận 10",
+      "TYPE": "Quận",
+      "VARNAME": "District 10",
+      "CENTER": [
+        10.770737177345088,
+        106.67166590705506
+      ]
+    },
+    {
+      "ENGTYPE": "Urban District",
+      "PROVINCE": "Hồ Chí Minh",
+      "NAME": "Quận 11",
+      "TYPE": "Quận",
+      "VARNAME": "District 11",
+      "CENTER": [
+        10.76424127874371,
+        106.64287180301889
+      ]
+    },
+    {
+      "ENGTYPE": "Urban District",
+      "PROVINCE": "Hồ Chí Minh",
+      "NAME": "Quận 12",
+      "TYPE": "Quận",
+      "VARNAME": "District 12",
+      "CENTER": [
+        10.857831184642787,
+        106.66227997139832
+      ]
+    },
+    {
+      "ENGTYPE": "Urban District",
+      "PROVINCE": "Hồ Chí Minh",
+      "NAME": "Quận 2",
+      "TYPE": "Quận",
+      "VARNAME": "District 2",
+      "CENTER": [
+        10.781684797740008,
+        106.74935931715315
+      ]
+    },
+    {
+      "ENGTYPE": "Urban District",
+      "PROVINCE": "Hồ Chí Minh",
+      "NAME": "Quận 3",
+      "TYPE": "Quận",
+      "VARNAME": "District 3",
+      "CENTER": [
+        10.781749363727782,
+        106.67828223876468
+      ]
+    },
+    {
+      "ENGTYPE": "Urban District",
+      "PROVINCE": "Hồ Chí Minh",
+      "NAME": "Quận 4",
+      "TYPE": "Quận",
+      "VARNAME": "District 4",
+      "CENTER": [
+        10.759943985370258,
+        106.70306390499216
+      ]
+    },
+    {
+      "ENGTYPE": "Urban District",
+      "PROVINCE": "Hồ Chí Minh",
+      "NAME": "Quận 5",
+      "TYPE": "Quận",
+      "VARNAME": "District 5",
+      "CENTER": [
+        10.75466238467234,
+        106.66947018041805
+      ]
+    },
+    {
+      "ENGTYPE": "Urban District",
+      "PROVINCE": "Hồ Chí Minh",
+      "NAME": "Quận 6",
+      "TYPE": "Quận",
+      "VARNAME": "District 6",
+      "CENTER": [
+        10.749417683157388,
+        106.63482661700768
+      ]
+    },
+    {
+      "ENGTYPE": "Urban District",
+      "PROVINCE": "Hồ Chí Minh",
+      "NAME": "Quận 7",
+      "TYPE": "Quận",
+      "VARNAME": "District 7",
+      "CENTER": [
+        10.736164508387976,
+        106.72178940362659
+      ]
+    },
+    {
+      "ENGTYPE": "Urban District",
+      "PROVINCE": "Hồ Chí Minh",
+      "NAME": "Quận 8",
+      "TYPE": "Quận",
+      "VARNAME": "District 8",
+      "CENTER": [
+        10.732231091821014,
+        106.64911201666715
+      ]
+    },
+    {
+      "ENGTYPE": "Urban District",
+      "PROVINCE": "Hồ Chí Minh",
+      "NAME": "Quận 9",
+      "TYPE": "Quận",
+      "VARNAME": "District 9",
+      "CENTER": [
+        10.822888718064451,
+        106.82538214867043
+      ]
+    },
+    {
+      "ENGTYPE": "Urban District",
+      "PROVINCE": "Hồ Chí Minh",
+      "NAME": "Tân Bình",
+      "TYPE": "Quận",
+      "VARNAME": "Tan Binh",
+      "CENTER": [
+        10.80854401891991,
+        106.65938178300945
+      ]
+    },
+    {
+      "ENGTYPE": "Urban District",
+      "PROVINCE": "Hồ Chí Minh",
+      "NAME": "Tân Phú",
+      "TYPE": "Quận",
+      "VARNAME": "Tan Phu",
+      "CENTER": [
+        10.788709427235238,
+        106.6256922896766
+      ]
+    },
+    {
+      "ENGTYPE": "Urban District",
+      "PROVINCE": "Hồ Chí Minh",
+      "NAME": "Thủ Đức",
+      "TYPE": "Quận",
+      "VARNAME": "Thu Duc",
+      "CENTER": [
+        10.864359609704493,
+        106.74428824197085
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hà Giang",
+      "NAME": "Bắc Mê",
+      "TYPE": "Huyện ",
+      "VARNAME": "Bac Me",
+      "CENTER": [
+        22.739234466100168,
+        105.29304458588567
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hà Giang",
+      "NAME": "Bắc Quang",
+      "TYPE": "Huyện ",
+      "VARNAME": "Bac Quang",
+      "CENTER": [
+        22.374403012846013,
+        104.90075827278793
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hà Giang",
+      "NAME": "Đồng Văn",
+      "TYPE": "Huyện ",
+      "VARNAME": "Dong Van",
+      "CENTER": [
+        23.262675068389626,
+        105.25046811769289
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "Hà Giang",
+      "NAME": "Hà Giang",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Ha Giang",
+      "CENTER": [
+        22.823246621217002,
+        104.9745282795529
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hà Giang",
+      "NAME": "Hoàng Su Phì",
+      "TYPE": "Huyện ",
+      "VARNAME": "Hoang Su Phi",
+      "CENTER": [
+        22.762968184997497,
+        104.64708327331269
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hà Giang",
+      "NAME": "Mèo Vạc",
+      "TYPE": "Huyện ",
+      "VARNAME": "Meo Vac",
+      "CENTER": [
+        23.164492436729912,
+        105.4375159113413
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hà Giang",
+      "NAME": "Quản Bạ",
+      "TYPE": "Huyện ",
+      "VARNAME": "Quan Ba",
+      "CENTER": [
+        23.076302682726695,
+        104.9198381601062
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hà Giang",
+      "NAME": "Quang Bình",
+      "TYPE": "Huyện ",
+      "VARNAME": "Quang Binh",
+      "CENTER": [
+        22.379842161831665,
+        104.66854767424792
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hà Giang",
+      "NAME": "Vị Xuyên",
+      "TYPE": "Huyện ",
+      "VARNAME": "Vi Xuyen",
+      "CENTER": [
+        22.795833959732228,
+        104.92999102653549
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hà Giang",
+      "NAME": "Xín Mần",
+      "TYPE": "Huyện ",
+      "VARNAME": "Xin Man",
+      "CENTER": [
+        22.677153853704866,
+        104.4788315113201
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hà Giang",
+      "NAME": "Yên Minh",
+      "TYPE": "Huyện ",
+      "VARNAME": "Yen Minh",
+      "CENTER": [
+        23.103394799929497,
+        105.17365893579168
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hà Nội",
+      "NAME": "Ứng Hòa",
+      "TYPE": "Huyện ",
+      "VARNAME": "Ung Hoa",
+      "CENTER": [
+        20.716940485632772,
+        105.79790118292806
+      ]
+    },
+    {
+      "ENGTYPE": "Urban District",
+      "PROVINCE": "Hà Nội",
+      "NAME": "Bắc Từ Liêm",
+      "TYPE": "Quận",
+      "VARNAME": "Bac Tu Liem",
+      "CENTER": [
+        21.066248449156404,
+        105.76046089016381
+      ]
+    },
+    {
+      "ENGTYPE": "Urban District",
+      "PROVINCE": "Hà Nội",
+      "NAME": "Ba Đình",
+      "TYPE": "Quận",
+      "VARNAME": "Ba Dinh",
+      "CENTER": [
+        21.03463857860424,
+        105.82667639301542
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hà Nội",
+      "NAME": "Ba Vì",
+      "TYPE": "Huyện ",
+      "VARNAME": "Ba Vi",
+      "CENTER": [
+        21.10880468479505,
+        105.41668405608293
+      ]
+    },
+    {
+      "ENGTYPE": "Urban District",
+      "PROVINCE": "Hà Nội",
+      "NAME": "Cầu Giấy",
+      "TYPE": "Quận",
+      "VARNAME": "Cau Giay",
+      "CENTER": [
+        21.03395834350633,
+        105.79217233939856
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hà Nội",
+      "NAME": "Chương Mỹ",
+      "TYPE": "Huyện ",
+      "VARNAME": "Chuong My",
+      "CENTER": [
+        20.86926995875362,
+        105.64161816750976
+      ]
+    },
+    {
+      "ENGTYPE": "Urban District",
+      "PROVINCE": "Hà Nội",
+      "NAME": "Đống Đa",
+      "TYPE": "Quận",
+      "VARNAME": "Dong Da",
+      "CENTER": [
+        21.02021003937222,
+        105.82059861782399
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hà Nội",
+      "NAME": "Đan Phượng",
+      "TYPE": "Huyện ",
+      "VARNAME": "Dan Phuong",
+      "CENTER": [
+        21.102116185893884,
+        105.67389157076103
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hà Nội",
+      "NAME": "Đông Anh",
+      "TYPE": "Huyện ",
+      "VARNAME": "Dong Anh",
+      "CENTER": [
+        21.153401356278895,
+        105.84340819512427
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hà Nội",
+      "NAME": "Gia Lâm",
+      "TYPE": "Huyện ",
+      "VARNAME": "Gia Lam",
+      "CENTER": [
+        21.026583069438836,
+        105.94839215182093
+      ]
+    },
+    {
+      "ENGTYPE": "Urban District",
+      "PROVINCE": "Hà Nội",
+      "NAME": "Hà Đông",
+      "TYPE": "Quận",
+      "VARNAME": "Ha Dong",
+      "CENTER": [
+        20.958137542992365,
+        105.75799539961915
+      ]
+    },
+    {
+      "ENGTYPE": "Urban District",
+      "PROVINCE": "Hà Nội",
+      "NAME": "Hai Bà Trưng",
+      "TYPE": "Quận",
+      "VARNAME": "Hai Ba Trung",
+      "CENTER": [
+        21.001401130351642,
+        105.85873430642722
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hà Nội",
+      "NAME": "Hoài Đức",
+      "TYPE": "Huyện ",
+      "VARNAME": "Hoai Duc",
+      "CENTER": [
+        21.025258752791153,
+        105.69958294103087
+      ]
+    },
+    {
+      "ENGTYPE": "Urban District",
+      "PROVINCE": "Hà Nội",
+      "NAME": "Hoàn Kiếm",
+      "TYPE": "Quận",
+      "VARNAME": "Hoan Kiem",
+      "CENTER": [
+        21.029654386460145,
+        105.84806132692128
+      ]
+    },
+    {
+      "ENGTYPE": "Urban District",
+      "PROVINCE": "Hà Nội",
+      "NAME": "Hoàng Mai",
+      "TYPE": "Quận",
+      "VARNAME": "Hoang Mai",
+      "CENTER": [
+        20.977709790773314,
+        105.84984683151163
+      ]
+    },
+    {
+      "ENGTYPE": "Urban District",
+      "PROVINCE": "Hà Nội",
+      "NAME": "Long Biên",
+      "TYPE": "Quận",
+      "VARNAME": "Long Bien",
+      "CENTER": [
+        21.038061745692737,
+        105.90188462657336
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hà Nội",
+      "NAME": "Mỹ Đức",
+      "TYPE": "Huyện ",
+      "VARNAME": "My Duc",
+      "CENTER": [
+        20.693001477650157,
+        105.71519674319062
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hà Nội",
+      "NAME": "Mê Linh",
+      "TYPE": "Huyện ",
+      "VARNAME": "Me Linh",
+      "CENTER": [
+        21.19368595433968,
+        105.70535101179175
+      ]
+    },
+    {
+      "ENGTYPE": "Urban District",
+      "PROVINCE": "Hà Nội",
+      "NAME": "Nam Từ Liêm",
+      "TYPE": "Quận",
+      "VARNAME": "Nam Tu Liem",
+      "CENTER": [
+        21.017520134591035,
+        105.7567287616039
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hà Nội",
+      "NAME": "Phú Xuyên",
+      "TYPE": "Huyện ",
+      "VARNAME": "Phu Xuyen",
+      "CENTER": [
+        20.736955468181886,
+        105.89431798294204
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hà Nội",
+      "NAME": "Phúc Thọ",
+      "TYPE": "Huyện ",
+      "VARNAME": "Phuc Tho",
+      "CENTER": [
+        21.10176966430257,
+        105.57712993426803
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hà Nội",
+      "NAME": "Quốc Oai",
+      "TYPE": "Huyện ",
+      "VARNAME": "Quoc Oai",
+      "CENTER": [
+        20.977211550520177,
+        105.60982528663185
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hà Nội",
+      "NAME": "Sóc Sơn",
+      "TYPE": "Huyện ",
+      "VARNAME": "Soc Son",
+      "CENTER": [
+        21.272759899551183,
+        105.83280094727085
+      ]
+    },
+    {
+      "ENGTYPE": "Town",
+      "PROVINCE": "Hà Nội",
+      "NAME": "Sơn Tây",
+      "TYPE": "Thị xã",
+      "VARNAME": "Son Tay",
+      "CENTER": [
+        21.094772043687357,
+        105.48145747665174
+      ]
+    },
+    {
+      "ENGTYPE": "Urban District",
+      "PROVINCE": "Hà Nội",
+      "NAME": "Tây Hồ",
+      "TYPE": "Quận",
+      "VARNAME": "Tay Ho",
+      "CENTER": [
+        21.064461249530193,
+        105.81256236683696
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hà Nội",
+      "NAME": "Thạch Thất",
+      "TYPE": "Huyện ",
+      "VARNAME": "Thach That",
+      "CENTER": [
+        21.01941628623274,
+        105.54318934224858
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hà Nội",
+      "NAME": "Thanh Oai",
+      "TYPE": "Huyện ",
+      "VARNAME": "Thanh Oai",
+      "CENTER": [
+        20.86150554833308,
+        105.77792527401934
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hà Nội",
+      "NAME": "Thanh Trì",
+      "TYPE": "Huyện ",
+      "VARNAME": "Thanh Tri",
+      "CENTER": [
+        20.936782716727535,
+        105.82749734478
+      ]
+    },
+    {
+      "ENGTYPE": "Urban District",
+      "PROVINCE": "Hà Nội",
+      "NAME": "Thanh Xuân",
+      "TYPE": "Quận",
+      "VARNAME": "Thanh Xuan",
+      "CENTER": [
+        20.991358314399196,
+        105.81180670191245
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hà Nội",
+      "NAME": "Thường Tín",
+      "TYPE": "Huyện ",
+      "VARNAME": "Thuong Tin",
+      "CENTER": [
+        20.838427711794893,
+        105.86651781867832
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hà Nam",
+      "NAME": "Bình Lục",
+      "TYPE": "Huyện ",
+      "VARNAME": "Binh Luc",
+      "CENTER": [
+        20.483242373068336,
+        106.0351880396202
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hà Nam",
+      "NAME": "Duy Tiên",
+      "TYPE": "Huyện ",
+      "VARNAME": "Duy Tien",
+      "CENTER": [
+        20.62889919027396,
+        105.96803764453554
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hà Nam",
+      "NAME": "Kim Bảng",
+      "TYPE": "Huyện ",
+      "VARNAME": "Kim Bang",
+      "CENTER": [
+        20.576127906530417,
+        105.85829166996973
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hà Nam",
+      "NAME": "Lý Nhân",
+      "TYPE": "Huyện ",
+      "VARNAME": "Ly Nhan",
+      "CENTER": [
+        20.562496809700942,
+        106.07992147566974
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "Hà Nam",
+      "NAME": "Phủ Lý",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Phu Ly",
+      "CENTER": [
+        20.54555338924224,
+        105.93603750833968
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hà Nam",
+      "NAME": "Thanh Liêm",
+      "TYPE": "Huyện ",
+      "VARNAME": "Thanh Liem",
+      "CENTER": [
+        20.459972591214008,
+        105.93274270063041
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hà Tĩnh",
+      "NAME": "Cẩm Xuyên",
+      "TYPE": "Huyện ",
+      "VARNAME": "Cam Xuyen",
+      "CENTER": [
+        18.186894585677297,
+        106.00713218348426
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hà Tĩnh",
+      "NAME": "Can Lộc",
+      "TYPE": "Huyện ",
+      "VARNAME": "Can Loc",
+      "CENTER": [
+        18.4392950847045,
+        105.7417689587684
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hà Tĩnh",
+      "NAME": "Đức Thọ",
+      "TYPE": "Huyện ",
+      "VARNAME": "Duc Tho",
+      "CENTER": [
+        18.493098794999817,
+        105.61593469931005
+      ]
+    },
+    {
+      "ENGTYPE": "Town",
+      "PROVINCE": "Hà Tĩnh",
+      "NAME": "Hồng Lĩnh",
+      "TYPE": "Thị xã",
+      "VARNAME": "Hong Linh",
+      "CENTER": [
+        18.53144103926441,
+        105.70423344558834
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "Hà Tĩnh",
+      "NAME": "Hà Tĩnh",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Ha Tinh",
+      "CENTER": [
+        18.350563528924894,
+        105.90246733355264
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hà Tĩnh",
+      "NAME": "Hương Khê",
+      "TYPE": "Huyện ",
+      "VARNAME": "Huong Khe",
+      "CENTER": [
+        18.15387887821345,
+        105.63189806281719
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hà Tĩnh",
+      "NAME": "Hương Sơn",
+      "TYPE": "Huyện ",
+      "VARNAME": "Huong Son",
+      "CENTER": [
+        18.45802708474923,
+        105.26976188949482
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hà Tĩnh",
+      "NAME": "Kỳ Anh",
+      "TYPE": "Huyện ",
+      "VARNAME": "Ky Anh",
+      "CENTER": [
+        18.100034296292833,
+        106.17633716391663
+      ]
+    },
+    {
+      "ENGTYPE": "Town",
+      "PROVINCE": "Hà Tĩnh",
+      "NAME": "Kỳ Anh (Thị xã)",
+      "TYPE": "Thị xã",
+      "VARNAME": "Ky Anh",
+      "CENTER": [
+        18.067528672503375,
+        106.36270445342687
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hà Tĩnh",
+      "NAME": "Lộc Hà",
+      "TYPE": "Huyện ",
+      "VARNAME": "Loc Ha",
+      "CENTER": [
+        18.455527730492296,
+        105.84622870428714
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hà Tĩnh",
+      "NAME": "Nghi Xuân",
+      "TYPE": "Huyện ",
+      "VARNAME": "Nghi Xuan",
+      "CENTER": [
+        18.651385615256782,
+        105.78685439365204
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hà Tĩnh",
+      "NAME": "Thạch Hà",
+      "TYPE": "Huyện ",
+      "VARNAME": "Thach Ha",
+      "CENTER": [
+        18.32959505943541,
+        105.86351521236661
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hà Tĩnh",
+      "NAME": "Vũ Quang",
+      "TYPE": "Huyện ",
+      "VARNAME": "Vu Quang",
+      "CENTER": [
+        18.292657844908152,
+        105.40683020170238
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hoà Bình",
+      "NAME": "Cao Phong",
+      "TYPE": "Huyện ",
+      "VARNAME": "Cao Phong",
+      "CENTER": [
+        20.700832544830558,
+        105.31976643771367
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hoà Bình",
+      "NAME": "Đà Bắc",
+      "TYPE": "Huyện ",
+      "VARNAME": "Da Bac",
+      "CENTER": [
+        20.93578582390232,
+        105.09378807294183
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "Hoà Bình",
+      "NAME": "Hòa Bình",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Hoa Binh",
+      "CENTER": [
+        20.833293059979123,
+        105.3304238431664
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hoà Bình",
+      "NAME": "Kỳ Sơn",
+      "TYPE": "Huyện ",
+      "VARNAME": "Ky Son",
+      "CENTER": [
+        20.916077782022885,
+        105.38345862951755
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hoà Bình",
+      "NAME": "Kim Bôi",
+      "TYPE": "Huyện ",
+      "VARNAME": "Kim Boi",
+      "CENTER": [
+        20.66184492946203,
+        105.52723294673136
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hoà Bình",
+      "NAME": "Lạc Sơn",
+      "TYPE": "Huyện ",
+      "VARNAME": "Lac Son",
+      "CENTER": [
+        20.48526073443432,
+        105.44720123558031
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hoà Bình",
+      "NAME": "Lạc Thủy",
+      "TYPE": "Huyện ",
+      "VARNAME": "Lac Thuy",
+      "CENTER": [
+        20.502500672849706,
+        105.71021471326846
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hoà Bình",
+      "NAME": "Lương Sơn",
+      "TYPE": "Huyện ",
+      "VARNAME": "Luong Son",
+      "CENTER": [
+        20.803384822766418,
+        105.58086656279878
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hoà Bình",
+      "NAME": "Mai Châu",
+      "TYPE": "Huyện ",
+      "VARNAME": "Mai Chau",
+      "CENTER": [
+        20.692325439089284,
+        105.0161437907629
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hoà Bình",
+      "NAME": "Tân Lạc",
+      "TYPE": "Huyện ",
+      "VARNAME": "Tan Lac",
+      "CENTER": [
+        20.601526699111417,
+        105.23338275519096
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hoà Bình",
+      "NAME": "Yên Thủy",
+      "TYPE": "Huyện ",
+      "VARNAME": "Yen Thuy",
+      "CENTER": [
+        20.430419737041365,
+        105.62475643307262
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hưng Yên",
+      "NAME": "Ân Thi",
+      "TYPE": "Huyện ",
+      "VARNAME": "An Thi",
+      "CENTER": [
+        20.814105822823976,
+        106.0998597706568
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "Hưng Yên",
+      "NAME": "Hưng Yên",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Hung Yen",
+      "CENTER": [
+        20.667179261491583,
+        106.07290987170946
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hưng Yên",
+      "NAME": "Khoái Châu",
+      "TYPE": "Huyện ",
+      "VARNAME": "Khoai Chau",
+      "CENTER": [
+        20.83655115750147,
+        105.97795935843762
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hưng Yên",
+      "NAME": "Kim Động",
+      "TYPE": "Huyện ",
+      "VARNAME": "Kim Dong",
+      "CENTER": [
+        20.742684671465508,
+        106.04024613995317
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hưng Yên",
+      "NAME": "Mỹ Hào",
+      "TYPE": "Huyện ",
+      "VARNAME": "My Hao",
+      "CENTER": [
+        20.937472685258687,
+        106.10219972929173
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hưng Yên",
+      "NAME": "Phù Cừ",
+      "TYPE": "Huyện ",
+      "VARNAME": "Phu Cu",
+      "CENTER": [
+        20.71613255947797,
+        106.18809171410724
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hưng Yên",
+      "NAME": "Tiên Lữ",
+      "TYPE": "Huyện ",
+      "VARNAME": "Tien Lu",
+      "CENTER": [
+        20.678304593431807,
+        106.12618281424471
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hưng Yên",
+      "NAME": "Văn Giang",
+      "TYPE": "Huyện ",
+      "VARNAME": "Van Giang",
+      "CENTER": [
+        20.937451803255914,
+        105.95832786249547
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hưng Yên",
+      "NAME": "Văn Lâm",
+      "TYPE": "Huyện ",
+      "VARNAME": "Van Lam",
+      "CENTER": [
+        20.98146399955283,
+        106.04491064565941
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Hưng Yên",
+      "NAME": "Yên Mỹ",
+      "TYPE": "Huyện ",
+      "VARNAME": "Yen My",
+      "CENTER": [
+        20.893375336868036,
+        106.02406297516623
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Khánh Hòa",
+      "NAME": "Cam Lâm",
+      "TYPE": "Huyện ",
+      "VARNAME": "Cam Lam",
+      "CENTER": [
+        12.084126714799883,
+        109.1103741148569
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "Khánh Hòa",
+      "NAME": "Cam Ranh",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Cam Ranh",
+      "CENTER": [
+        11.894509442959698,
+        109.21239885418554
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Khánh Hòa",
+      "NAME": "Diên Khánh",
+      "TYPE": "Huyện ",
+      "VARNAME": "Dien Khanh",
+      "CENTER": [
+        12.273296907405935,
+        109.03869102518397
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Khánh Hòa",
+      "NAME": "Khánh Sơn",
+      "TYPE": "Huyện ",
+      "VARNAME": "Khanh Son",
+      "CENTER": [
+        12.04190631012801,
+        108.89426377788512
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Khánh Hòa",
+      "NAME": "Khánh Vĩnh",
+      "TYPE": "Huyện ",
+      "VARNAME": "Khanh Vinh",
+      "CENTER": [
+        12.313775742864081,
+        108.848506594922
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "Khánh Hòa",
+      "NAME": "Nha Trang",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Nha Trang",
+      "CENTER": [
+        12.249775729136006,
+        109.23457386233042
+      ]
+    },
+    {
+      "ENGTYPE": "Town",
+      "PROVINCE": "Khánh Hòa",
+      "NAME": "Ninh Hòa",
+      "TYPE": "Thị xã",
+      "VARNAME": "Ninh Hoa",
+      "CENTER": [
+        12.472230545752662,
+        109.18525140683288
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Khánh Hòa",
+      "NAME": "Vạn Ninh",
+      "TYPE": "Huyện ",
+      "VARNAME": "Van Ninh",
+      "CENTER": [
+        12.655857883465863,
+        109.33316693863627
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Kiên Giang",
+      "NAME": "An Biên",
+      "TYPE": "Huyện ",
+      "VARNAME": "An Bien",
+      "CENTER": [
+        9.831519685156612,
+        105.04159197282719
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Kiên Giang",
+      "NAME": "An Minh",
+      "TYPE": "Huyện ",
+      "VARNAME": "An Minh",
+      "CENTER": [
+        9.675163546692483,
+        104.9282929009595
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Kiên Giang",
+      "NAME": "Châu Thành",
+      "TYPE": "Huyện ",
+      "VARNAME": "Chau Thanh",
+      "CENTER": [
+        9.928960012916523,
+        105.17650665795466
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Kiên Giang",
+      "NAME": "Giồng Riềng",
+      "TYPE": "Huyện ",
+      "VARNAME": "Giong Rieng",
+      "CENTER": [
+        9.885711288166952,
+        105.30563855039512
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Kiên Giang",
+      "NAME": "Giang Thành",
+      "TYPE": "Huyện ",
+      "VARNAME": "Giang Thanh",
+      "CENTER": [
+        10.491321980608145,
+        104.63739854583163
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Kiên Giang",
+      "NAME": "Gò Quao",
+      "TYPE": "Huyện ",
+      "VARNAME": "Go Quao",
+      "CENTER": [
+        9.730349154492071,
+        105.31985658280657
+      ]
+    },
+    {
+      "ENGTYPE": "Town",
+      "PROVINCE": "Kiên Giang",
+      "NAME": "Hà Tiên",
+      "TYPE": "Thị xã",
+      "VARNAME": "Ha Tien",
+      "CENTER": [
+        10.34389375909286,
+        104.36619968719478
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Kiên Giang",
+      "NAME": "Hòn Đất",
+      "TYPE": "Huyện ",
+      "VARNAME": "Hon Dat",
+      "CENTER": [
+        10.18488664507964,
+        104.934692238387
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Kiên Giang",
+      "NAME": "Kiên Hải",
+      "TYPE": "Huyện ",
+      "VARNAME": "Kien Hai",
+      "CENTER": [
+        9.73388012091931,
+        104.4819047072722
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Kiên Giang",
+      "NAME": "Kiên Lương",
+      "TYPE": "Huyện ",
+      "VARNAME": "Kien Luong",
+      "CENTER": [
+        10.158960064753588,
+        104.5377210005834
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Kiên Giang",
+      "NAME": "Phú Quốc",
+      "TYPE": "Huyện ",
+      "VARNAME": "Phu Quoc",
+      "CENTER": [
+        9.968379475881143,
+        103.880744315838
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "Kiên Giang",
+      "NAME": "Rạch Giá",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Rach Gia",
+      "CENTER": [
+        10.000872918194306,
+        105.10805882648916
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Kiên Giang",
+      "NAME": "Tân Hiệp",
+      "TYPE": "Huyện ",
+      "VARNAME": "Tan Hiep",
+      "CENTER": [
+        10.05369125076097,
+        105.25931737366078
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Kiên Giang",
+      "NAME": "U Minh Thượng",
+      "TYPE": "Huyện ",
+      "VARNAME": "U Minh Thuong",
+      "CENTER": [
+        9.670178283096991,
+        105.14697045556487
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Kiên Giang",
+      "NAME": "Vĩnh Thuận",
+      "TYPE": "Huyện ",
+      "VARNAME": "Vinh Thuan",
+      "CENTER": [
+        9.572316291501195,
+        105.27003718376173
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Kon Tum",
+      "NAME": "Đắk Glei",
+      "TYPE": "Huyện ",
+      "VARNAME": "Dak Glei",
+      "CENTER": [
+        15.141858033427066,
+        107.64672991600301
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Kon Tum",
+      "NAME": "Đắk Hà",
+      "TYPE": "Huyện ",
+      "VARNAME": "Dak Ha",
+      "CENTER": [
+        14.60901649886904,
+        107.99977323532781
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Kon Tum",
+      "NAME": "Đắk Tô",
+      "TYPE": "Huyện ",
+      "VARNAME": "Dak To",
+      "CENTER": [
+        14.680679583850104,
+        107.81310090690432
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Kon Tum",
+      "NAME": "Ia H' Drai",
+      "TYPE": "Huyện ",
+      "VARNAME": "Ia H' Drai",
+      "CENTER": [
+        14.227905112615385,
+        107.45633930394814
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Kon Tum",
+      "NAME": "Kon Plông",
+      "TYPE": "Huyện ",
+      "VARNAME": "Kon Plong",
+      "CENTER": [
+        14.774296791173386,
+        108.2991983685404
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Kon Tum",
+      "NAME": "Kon Rẫy",
+      "TYPE": "Huyện ",
+      "VARNAME": "Kon Ray",
+      "CENTER": [
+        14.55237112396387,
+        108.17948941121644
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "Kon Tum",
+      "NAME": "Kon Tum",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Kon Tum",
+      "CENTER": [
+        14.362922182825058,
+        107.97647725264795
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Kon Tum",
+      "NAME": "Ngọc Hồi",
+      "TYPE": "Huyện ",
+      "VARNAME": "Ngoc Hoi",
+      "CENTER": [
+        14.724223701371386,
+        107.63177377885286
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Kon Tum",
+      "NAME": "Sa Thầy",
+      "TYPE": "Huyện ",
+      "VARNAME": "Sa Thay",
+      "CENTER": [
+        14.418962526451995,
+        107.67455536679417
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Kon Tum",
+      "NAME": "Tu Mơ Rông",
+      "TYPE": "Huyện ",
+      "VARNAME": "Tu Mo Rong",
+      "CENTER": [
+        14.8832581700792,
+        107.9611813256592
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Lạng Sơn",
+      "NAME": "Bắc Sơn",
+      "TYPE": "Huyện ",
+      "VARNAME": "Bac Son",
+      "CENTER": [
+        21.82522686772704,
+        106.25669223781884
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Lạng Sơn",
+      "NAME": "Bình Gia",
+      "TYPE": "Huyện ",
+      "VARNAME": "Binh Gia",
+      "CENTER": [
+        22.04675903188661,
+        106.31410698983716
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Lạng Sơn",
+      "NAME": "Cao Lộc",
+      "TYPE": "Huyện ",
+      "VARNAME": "Cao Loc",
+      "CENTER": [
+        21.88832821647806,
+        106.8149666516837
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Lạng Sơn",
+      "NAME": "Chi Lăng",
+      "TYPE": "Huyện ",
+      "VARNAME": "Chi Lang",
+      "CENTER": [
+        21.669951671548418,
+        106.6426996143492
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Lạng Sơn",
+      "NAME": "Đình Lập",
+      "TYPE": "Huyện ",
+      "VARNAME": "Dinh Lap",
+      "CENTER": [
+        21.593712362166944,
+        107.17934247977009
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Lạng Sơn",
+      "NAME": "Hữu Lũng",
+      "TYPE": "Huyện ",
+      "VARNAME": "Huu Lung",
+      "CENTER": [
+        21.55555043530669,
+        106.34781186732971
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "Lạng Sơn",
+      "NAME": "Lạng Sơn",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Lang Son",
+      "CENTER": [
+        21.853144001054233,
+        106.74788217960261
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Lạng Sơn",
+      "NAME": "Lộc Bình",
+      "TYPE": "Huyện ",
+      "VARNAME": "Loc Binh",
+      "CENTER": [
+        21.69699155561736,
+        106.99251581365363
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Lạng Sơn",
+      "NAME": "Tràng Định",
+      "TYPE": "Huyện ",
+      "VARNAME": "Trang Dinh",
+      "CENTER": [
+        22.29661185175105,
+        106.50685663594264
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Lạng Sơn",
+      "NAME": "Văn Lãng",
+      "TYPE": "Huyện ",
+      "VARNAME": "Van Lang",
+      "CENTER": [
+        22.050960945439776,
+        106.60721841473628
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Lạng Sơn",
+      "NAME": "Văn Quan",
+      "TYPE": "Huyện ",
+      "VARNAME": "Van Quan",
+      "CENTER": [
+        21.862701135485654,
+        106.54244384286874
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "Lai Châu",
+      "NAME": "Lai Châu",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Lai Chau",
+      "CENTER": [
+        22.39899722541082,
+        103.45121008869201
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Lai Châu",
+      "NAME": "Mường Tè",
+      "TYPE": "Huyện ",
+      "VARNAME": "Muong Te",
+      "CENTER": [
+        22.52347446548081,
+        102.62505677391441
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Lai Châu",
+      "NAME": "Nậm Nhùn",
+      "TYPE": "Huyện ",
+      "VARNAME": "Nam Nhun",
+      "CENTER": [
+        22.26637910434914,
+        102.9857286642727
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Lai Châu",
+      "NAME": "Phong Thổ",
+      "TYPE": "Huyện ",
+      "VARNAME": "Phong Tho",
+      "CENTER": [
+        22.630072331886446,
+        103.3377097863867
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Lai Châu",
+      "NAME": "Sìn Hồ",
+      "TYPE": "Huyện ",
+      "VARNAME": "Sin Ho",
+      "CENTER": [
+        22.287978720555742,
+        103.29606141717402
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Lai Châu",
+      "NAME": "Tam Đường",
+      "TYPE": "Huyện ",
+      "VARNAME": "Tam Duong",
+      "CENTER": [
+        22.349010951679766,
+        103.56755449233007
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Lai Châu",
+      "NAME": "Tân Uyên",
+      "TYPE": "Huyện ",
+      "VARNAME": "Tan Uyen",
+      "CENTER": [
+        22.123673127907185,
+        103.74021789453288
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Lai Châu",
+      "NAME": "Than Uyên",
+      "TYPE": "Huyện ",
+      "VARNAME": "Than Uyen",
+      "CENTER": [
+        21.88402715950396,
+        103.84206420013511
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "Lâm Đồng",
+      "NAME": "Bảo Lộc",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Bao Loc",
+      "CENTER": [
+        11.552279895692555,
+        107.80906269249414
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Lâm Đồng",
+      "NAME": "Bảo Lâm",
+      "TYPE": "Huyện ",
+      "VARNAME": "Bao Lam",
+      "CENTER": [
+        11.636074751314892,
+        107.80004870577746
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Lâm Đồng",
+      "NAME": "Cát Tiên",
+      "TYPE": "Huyện ",
+      "VARNAME": "Cat Tien",
+      "CENTER": [
+        11.6493580144819,
+        107.40390598054208
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Lâm Đồng",
+      "NAME": "Đạ Huoai",
+      "TYPE": "Huyện ",
+      "VARNAME": "Da Huoai",
+      "CENTER": [
+        11.435776391168949,
+        107.60218979928939
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Lâm Đồng",
+      "NAME": "Đạ Tẻh",
+      "TYPE": "Huyện ",
+      "VARNAME": "Da Teh",
+      "CENTER": [
+        11.5787420147743,
+        107.51086603530197
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Lâm Đồng",
+      "NAME": "Đức Trọng",
+      "TYPE": "Huyện ",
+      "VARNAME": "Duc Trong",
+      "CENTER": [
+        11.664830439645334,
+        108.3676024618362
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "Lâm Đồng",
+      "NAME": "Đà Lạt",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Da Lat",
+      "CENTER": [
+        11.930422201716544,
+        108.43846537731639
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Lâm Đồng",
+      "NAME": "Đam Rông",
+      "TYPE": "Huyện ",
+      "VARNAME": "Dam Rong",
+      "CENTER": [
+        12.07062825325063,
+        108.15925567878318
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Lâm Đồng",
+      "NAME": "Di Linh",
+      "TYPE": "Huyện ",
+      "VARNAME": "Di Linh",
+      "CENTER": [
+        11.56271583295443,
+        108.05936273083722
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Lâm Đồng",
+      "NAME": "Đơn Dương",
+      "TYPE": "Huyện ",
+      "VARNAME": "Don Duong",
+      "CENTER": [
+        11.780174718711988,
+        108.56035077321731
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Lâm Đồng",
+      "NAME": "Lạc Dương",
+      "TYPE": "Huyện ",
+      "VARNAME": "Lac Duong",
+      "CENTER": [
+        12.13978226408847,
+        108.48835180609623
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Lâm Đồng",
+      "NAME": "Lâm Hà",
+      "TYPE": "Huyện ",
+      "VARNAME": "Lam Ha",
+      "CENTER": [
+        11.834779785518368,
+        108.2153078970416
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Lào Cai",
+      "NAME": "Bảo Thắng",
+      "TYPE": "Huyện ",
+      "VARNAME": "Bao Thang",
+      "CENTER": [
+        22.394951072068736,
+        104.13282187856562
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Lào Cai",
+      "NAME": "Bảo Yên",
+      "TYPE": "Huyện ",
+      "VARNAME": "Bao Yen",
+      "CENTER": [
+        22.287261396768745,
+        104.43440740351785
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Lào Cai",
+      "NAME": "Bắc Hà",
+      "TYPE": "Huyện ",
+      "VARNAME": "Bac Ha",
+      "CENTER": [
+        22.488334629305204,
+        104.3480646203096
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Lào Cai",
+      "NAME": "Bát Xát",
+      "TYPE": "Huyện ",
+      "VARNAME": "Bat Xat",
+      "CENTER": [
+        22.6160495516584,
+        103.69185239211471
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "Lào Cai",
+      "NAME": "Lào Cai",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Lao Cai",
+      "CENTER": [
+        22.43523226696385,
+        103.97966902246054
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Lào Cai",
+      "NAME": "Mường Khương",
+      "TYPE": "Huyện ",
+      "VARNAME": "Muong Khuong",
+      "CENTER": [
+        22.703023554731807,
+        104.1310538713003
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Lào Cai",
+      "NAME": "Sa Pa",
+      "TYPE": "Huyện ",
+      "VARNAME": "Sa Pa",
+      "CENTER": [
+        22.30895089326721,
+        103.89747002956011
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Lào Cai",
+      "NAME": "Si Ma Cai",
+      "TYPE": "Huyện ",
+      "VARNAME": "Si Ma Cai",
+      "CENTER": [
+        22.678111796938342,
+        104.27601360534781
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Lào Cai",
+      "NAME": "Văn Bàn",
+      "TYPE": "Huyện ",
+      "VARNAME": "Van Ban",
+      "CENTER": [
+        22.069014510728834,
+        104.19834185402537
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Long An",
+      "NAME": "Bến Lức",
+      "TYPE": "Huyện ",
+      "VARNAME": "Ben Luc",
+      "CENTER": [
+        10.674066705490793,
+        106.46725787105522
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Long An",
+      "NAME": "Cần Đước",
+      "TYPE": "Huyện ",
+      "VARNAME": "Can Duoc",
+      "CENTER": [
+        10.549999126495347,
+        106.59511817978829
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Long An",
+      "NAME": "Cần Giuộc",
+      "TYPE": "Huyện ",
+      "VARNAME": "Can Giuoc",
+      "CENTER": [
+        10.60770850679643,
+        106.64223820813058
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Long An",
+      "NAME": "Châu Thành",
+      "TYPE": "Huyện ",
+      "VARNAME": "Chau Thanh",
+      "CENTER": [
+        10.447365132796936,
+        106.4912971612106
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Long An",
+      "NAME": "Đức Hòa",
+      "TYPE": "Huyện ",
+      "VARNAME": "Duc Hoa",
+      "CENTER": [
+        10.886107248939938,
+        106.36308205957233
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Long An",
+      "NAME": "Đức Huệ",
+      "TYPE": "Huyện ",
+      "VARNAME": "Duc Hue",
+      "CENTER": [
+        10.885152252376946,
+        106.25596692244754
+      ]
+    },
+    {
+      "ENGTYPE": "Town",
+      "PROVINCE": "Long An",
+      "NAME": "Kiến Tường",
+      "TYPE": "Thị xã",
+      "VARNAME": "Kien Tuong",
+      "CENTER": [
+        10.823483336533325,
+        105.92383975277343
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Long An",
+      "NAME": "Mộc Hóa",
+      "TYPE": "Huyện ",
+      "VARNAME": "Moc Hoa",
+      "CENTER": [
+        10.764981895085334,
+        106.0181348055443
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "Long An",
+      "NAME": "Tân An",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Tan An",
+      "CENTER": [
+        10.5361297631201,
+        106.40796634687837
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Long An",
+      "NAME": "Tân Hưng",
+      "TYPE": "Huyện ",
+      "VARNAME": "Tan Hung",
+      "CENTER": [
+        10.8659860303667,
+        105.67634089548966
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Long An",
+      "NAME": "Tân Thạnh",
+      "TYPE": "Huyện ",
+      "VARNAME": "Tan Thanh",
+      "CENTER": [
+        10.643750989309428,
+        105.95429918252005
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Long An",
+      "NAME": "Tân Trụ",
+      "TYPE": "Huyện ",
+      "VARNAME": "Tan Tru",
+      "CENTER": [
+        10.533387023378618,
+        106.49934459169874
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Long An",
+      "NAME": "Thạnh Hóa",
+      "TYPE": "Huyện ",
+      "VARNAME": "Thanh Hoa",
+      "CENTER": [
+        10.690840365795864,
+        106.19339715340107
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Long An",
+      "NAME": "Thủ Thừa",
+      "TYPE": "Huyện ",
+      "VARNAME": "Thu Thua",
+      "CENTER": [
+        10.618443324748505,
+        106.36672351604665
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Long An",
+      "NAME": "Vĩnh Hưng",
+      "TYPE": "Huyện ",
+      "VARNAME": "Vinh Hung",
+      "CENTER": [
+        10.918177590116203,
+        105.77804341253108
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Nam Định",
+      "NAME": "Giao Thủy",
+      "TYPE": "Huyện ",
+      "VARNAME": "Giao Thuy",
+      "CENTER": [
+        20.24116610181415,
+        106.46077549202664
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Nam Định",
+      "NAME": "Hải Hậu",
+      "TYPE": "Huyện ",
+      "VARNAME": "Hai Hau",
+      "CENTER": [
+        20.17510267571278,
+        106.2812586587379
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Nam Định",
+      "NAME": "Mỹ Lộc",
+      "TYPE": "Huyện ",
+      "VARNAME": "My Loc",
+      "CENTER": [
+        20.453191761382108,
+        106.12792977803035
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "Nam Định",
+      "NAME": "Nam Định",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Nam Dinh",
+      "CENTER": [
+        20.417163565700086,
+        106.17514713697771
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Nam Định",
+      "NAME": "Nam Trực",
+      "TYPE": "Huyện ",
+      "VARNAME": "Nam Truc",
+      "CENTER": [
+        20.325979623369243,
+        106.20760043635778
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Nam Định",
+      "NAME": "Nghĩa Hưng",
+      "TYPE": "Huyện ",
+      "VARNAME": "Nghia Hung",
+      "CENTER": [
+        20.17123024523184,
+        106.15521374566575
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Nam Định",
+      "NAME": "Trực Ninh",
+      "TYPE": "Huyện ",
+      "VARNAME": "Truc Ninh",
+      "CENTER": [
+        20.25447369624503,
+        106.22478102190908
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Nam Định",
+      "NAME": "Vụ Bản",
+      "TYPE": "Huyện ",
+      "VARNAME": "Vu Ban",
+      "CENTER": [
+        20.38577737430619,
+        106.0928175590759
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Nam Định",
+      "NAME": "Xuân Trường",
+      "TYPE": "Huyện ",
+      "VARNAME": "Xuan Truong",
+      "CENTER": [
+        20.28910103700586,
+        106.34671546970698
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Nam Định",
+      "NAME": "Ý Yên",
+      "TYPE": "Huyện ",
+      "VARNAME": "Y Yen",
+      "CENTER": [
+        20.346449015937466,
+        106.02098964206246
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Nghệ An",
+      "NAME": "Anh Sơn",
+      "TYPE": "Huyện ",
+      "VARNAME": "Anh Son",
+      "CENTER": [
+        18.959370450043906,
+        105.04899778801743
+      ]
+    },
+    {
+      "ENGTYPE": "Town",
+      "PROVINCE": "Nghệ An",
+      "NAME": "Cửa Lò",
+      "TYPE": "Thị xã",
+      "VARNAME": "Cua Lo",
+      "CENTER": [
+        18.803170051746807,
+        105.72932242464478
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Nghệ An",
+      "NAME": "Con Cuông",
+      "TYPE": "Huyện ",
+      "VARNAME": "Con Cuong",
+      "CENTER": [
+        19.031223493696473,
+        104.827934012241
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Nghệ An",
+      "NAME": "Diễn Châu",
+      "TYPE": "Huyện ",
+      "VARNAME": "Dien Chau",
+      "CENTER": [
+        19.029161545177868,
+        105.55509947027332
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Nghệ An",
+      "NAME": "Đô Lương",
+      "TYPE": "Huyện ",
+      "VARNAME": "Do Luong",
+      "CENTER": [
+        18.900628755085126,
+        105.34131322624184
+      ]
+    },
+    {
+      "ENGTYPE": "Town",
+      "PROVINCE": "Nghệ An",
+      "NAME": "Hoàng Mai",
+      "TYPE": "Thị xã",
+      "VARNAME": "Hoang Mai",
+      "CENTER": [
+        19.273182438512794,
+        105.69769619889746
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Nghệ An",
+      "NAME": "Hưng Nguyên",
+      "TYPE": "Huyện ",
+      "VARNAME": "Hung Nguyen",
+      "CENTER": [
+        18.689096424161722,
+        105.60939947109928
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Nghệ An",
+      "NAME": "Kỳ Sơn",
+      "TYPE": "Huyện ",
+      "VARNAME": "Ky Son",
+      "CENTER": [
+        19.468454068420737,
+        104.20678193077582
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Nghệ An",
+      "NAME": "Nam Đàn",
+      "TYPE": "Huyện ",
+      "VARNAME": "Nam Dan",
+      "CENTER": [
+        18.678429591521777,
+        105.51907109749266
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Nghệ An",
+      "NAME": "Nghi Lộc",
+      "TYPE": "Huyện ",
+      "VARNAME": "Nghi Loc",
+      "CENTER": [
+        18.804929689446748,
+        105.64645946940581
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Nghệ An",
+      "NAME": "Nghĩa Đàn",
+      "TYPE": "Huyện ",
+      "VARNAME": "Nghia Dan",
+      "CENTER": [
+        19.34208009469788,
+        105.40621712174318
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Nghệ An",
+      "NAME": "Quế Phong",
+      "TYPE": "Huyện ",
+      "VARNAME": "Que Phong",
+      "CENTER": [
+        19.730186936408128,
+        104.87706140582551
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Nghệ An",
+      "NAME": "Quỳ Châu",
+      "TYPE": "Huyện ",
+      "VARNAME": "Quy Chau",
+      "CENTER": [
+        19.5349677649678,
+        105.08398071271206
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Nghệ An",
+      "NAME": "Quỳ Hợp",
+      "TYPE": "Huyện ",
+      "VARNAME": "Quy Hop",
+      "CENTER": [
+        19.331862615894337,
+        105.16621732475755
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Nghệ An",
+      "NAME": "Quỳnh Lưu",
+      "TYPE": "Huyện ",
+      "VARNAME": "Quynh Luu",
+      "CENTER": [
+        19.212616682886004,
+        105.60251948055685
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Nghệ An",
+      "NAME": "Tân Kỳ",
+      "TYPE": "Huyện ",
+      "VARNAME": "Tan Ky",
+      "CENTER": [
+        19.111799500359638,
+        105.2256808448282
+      ]
+    },
+    {
+      "ENGTYPE": "Town",
+      "PROVINCE": "Nghệ An",
+      "NAME": "Thái Hoà",
+      "TYPE": "Thị xã",
+      "VARNAME": "Thai Hoa",
+      "CENTER": [
+        19.28735357139319,
+        105.43886728765497
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Nghệ An",
+      "NAME": "Thanh Chương",
+      "TYPE": "Huyện ",
+      "VARNAME": "Thanh Chuong",
+      "CENTER": [
+        18.736723789486696,
+        105.21830407113535
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Nghệ An",
+      "NAME": "Tương Dương",
+      "TYPE": "Huyện ",
+      "VARNAME": "Tuong Duong",
+      "CENTER": [
+        19.325681284997398,
+        104.53673663636131
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "Nghệ An",
+      "NAME": "Vinh",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Vinh",
+      "CENTER": [
+        18.707277708868194,
+        105.6853064896616
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Nghệ An",
+      "NAME": "Yên Thành",
+      "TYPE": "Huyện ",
+      "VARNAME": "Yen Thanh",
+      "CENTER": [
+        19.023211566439485,
+        105.4585612117233
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Ninh Bình",
+      "NAME": "Gia Viễn",
+      "TYPE": "Huyện ",
+      "VARNAME": "Gia Vien",
+      "CENTER": [
+        20.328882470831285,
+        105.86023797953268
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Ninh Bình",
+      "NAME": "Hoa Lư",
+      "TYPE": "Huyện ",
+      "VARNAME": "Hoa Lu",
+      "CENTER": [
+        20.24795098174596,
+        105.93952877899052
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Ninh Bình",
+      "NAME": "Kim Sơn",
+      "TYPE": "Huyện ",
+      "VARNAME": "Kim Son",
+      "CENTER": [
+        20.068508892235776,
+        106.07935368967075
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Ninh Bình",
+      "NAME": "Nho Quan",
+      "TYPE": "Huyện ",
+      "VARNAME": "Nho Quan",
+      "CENTER": [
+        20.31770079913049,
+        105.74336821922141
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "Ninh Bình",
+      "NAME": "Ninh Bình",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Ninh Binh",
+      "CENTER": [
+        20.248197788682116,
+        105.96679821395928
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "Ninh Bình",
+      "NAME": "Tam Điệp",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Tam Diep",
+      "CENTER": [
+        20.155121809844925,
+        105.89015431886708
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Ninh Bình",
+      "NAME": "Yên Khánh",
+      "TYPE": "Huyện ",
+      "VARNAME": "Yen Khanh",
+      "CENTER": [
+        20.198775297274356,
+        106.06172260482731
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Ninh Bình",
+      "NAME": "Yên Mô",
+      "TYPE": "Huyện ",
+      "VARNAME": "Yen Mo",
+      "CENTER": [
+        20.136070413089517,
+        105.98441873018717
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Ninh Thuận",
+      "NAME": "Bác Ái",
+      "TYPE": "Huyện ",
+      "VARNAME": "Bac Ai",
+      "CENTER": [
+        11.947901570143987,
+        108.82268516272451
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Ninh Thuận",
+      "NAME": "Ninh Hải",
+      "TYPE": "Huyện ",
+      "VARNAME": "Ninh Hai",
+      "CENTER": [
+        11.670683847924204,
+        109.1288097923315
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Ninh Thuận",
+      "NAME": "Ninh Phước",
+      "TYPE": "Huyện ",
+      "VARNAME": "Ninh Phuoc",
+      "CENTER": [
+        11.556695251807266,
+        108.90180182062818
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Ninh Thuận",
+      "NAME": "Ninh Sơn",
+      "TYPE": "Huyện ",
+      "VARNAME": "Ninh Son",
+      "CENTER": [
+        11.713019199858607,
+        108.74561828656758
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "Ninh Thuận",
+      "NAME": "Phan Rang-Tháp Chàm",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Phan Rang-Thap Cham",
+      "CENTER": [
+        11.58451898865499,
+        108.97615428361823
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Ninh Thuận",
+      "NAME": "Thuận Bắc",
+      "TYPE": "Huyện ",
+      "VARNAME": "Thuan Bac",
+      "CENTER": [
+        11.730925431643135,
+        109.06911017672728
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Ninh Thuận",
+      "NAME": "Thuận Nam",
+      "TYPE": "Huyện ",
+      "VARNAME": "Thuan Nam",
+      "CENTER": [
+        11.424618719089175,
+        108.89269667516238
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Phú Thọ",
+      "NAME": "Cẩm Khê",
+      "TYPE": "Huyện ",
+      "VARNAME": "Cam Khe",
+      "CENTER": [
+        21.388581887437557,
+        105.09685571596103
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Phú Thọ",
+      "NAME": "Đoan Hùng",
+      "TYPE": "Huyện ",
+      "VARNAME": "Doan Hung",
+      "CENTER": [
+        21.62853841529405,
+        105.13277988877137
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Phú Thọ",
+      "NAME": "Hạ Hoà",
+      "TYPE": "Huyện ",
+      "VARNAME": "Ha Hoa",
+      "CENTER": [
+        21.578341717423974,
+        105.00806717181463
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Phú Thọ",
+      "NAME": "Lâm Thao",
+      "TYPE": "Huyện ",
+      "VARNAME": "Lam Thao",
+      "CENTER": [
+        21.346743752754072,
+        105.29575016553733
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Phú Thọ",
+      "NAME": "Phù Ninh",
+      "TYPE": "Huyện ",
+      "VARNAME": "Phu Ninh",
+      "CENTER": [
+        21.44537945677171,
+        105.29915679413858
+      ]
+    },
+    {
+      "ENGTYPE": "Town",
+      "PROVINCE": "Phú Thọ",
+      "NAME": "Phú Thọ",
+      "TYPE": "Thị xã",
+      "VARNAME": "Phu Tho",
+      "CENTER": [
+        21.417853073197016,
+        105.23207976847522
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Phú Thọ",
+      "NAME": "Tam Nông",
+      "TYPE": "Huyện ",
+      "VARNAME": "Tam Nong",
+      "CENTER": [
+        21.27928544322057,
+        105.23697491451732
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Phú Thọ",
+      "NAME": "Tân Sơn",
+      "TYPE": "Huyện ",
+      "VARNAME": "Tan Son",
+      "CENTER": [
+        21.18730022971112,
+        104.9786869084225
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Phú Thọ",
+      "NAME": "Thanh Ba",
+      "TYPE": "Huyện ",
+      "VARNAME": "Thanh Ba",
+      "CENTER": [
+        21.46558394866124,
+        105.16965222361335
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Phú Thọ",
+      "NAME": "Thanh Sơn",
+      "TYPE": "Huyện ",
+      "VARNAME": "Thanh Son",
+      "CENTER": [
+        21.077580845827658,
+        105.18559724127337
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Phú Thọ",
+      "NAME": "Thanh Thuỷ",
+      "TYPE": "Huyện ",
+      "VARNAME": "Thanh Thuy",
+      "CENTER": [
+        21.14415357574129,
+        105.27850152399638
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "Phú Thọ",
+      "NAME": "Việt Trì",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Viet Tri",
+      "CENTER": [
+        21.337225456714258,
+        105.36016342217388
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Phú Thọ",
+      "NAME": "Yên Lập",
+      "TYPE": "Huyện ",
+      "VARNAME": "Yen Lap",
+      "CENTER": [
+        21.35597153152468,
+        105.0170136097236
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Phú Yên",
+      "NAME": "Đồng Xuân",
+      "TYPE": "Huyện ",
+      "VARNAME": "Dong Xuan",
+      "CENTER": [
+        13.44608233218623,
+        108.95189600234018
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Phú Yên",
+      "NAME": "Đông Hòa",
+      "TYPE": "Huyện ",
+      "VARNAME": "Dong Hoa",
+      "CENTER": [
+        12.92207440035153,
+        109.3604058089232
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Phú Yên",
+      "NAME": "Phú Hoà",
+      "TYPE": "Huyện ",
+      "VARNAME": "Phu Hoa",
+      "CENTER": [
+        13.083210253058878,
+        109.18693878102702
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Phú Yên",
+      "NAME": "Sơn Hòa",
+      "TYPE": "Huyện ",
+      "VARNAME": "Son Hoa",
+      "CENTER": [
+        13.176843184915748,
+        108.92563656325822
+      ]
+    },
+    {
+      "ENGTYPE": "Town",
+      "PROVINCE": "Phú Yên",
+      "NAME": "Sông Cầu",
+      "TYPE": "Thị xã",
+      "VARNAME": "Song Cau",
+      "CENTER": [
+        13.481959174737906,
+        109.25192525618667
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Phú Yên",
+      "NAME": "Sông Hinh",
+      "TYPE": "Huyện ",
+      "VARNAME": "Song Hinh",
+      "CENTER": [
+        12.890733506882306,
+        108.92831399124948
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Phú Yên",
+      "NAME": "Tây Hoà",
+      "TYPE": "Huyện ",
+      "VARNAME": "Tay Hoa",
+      "CENTER": [
+        12.92185996183184,
+        109.17013382604571
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Phú Yên",
+      "NAME": "Tuy An",
+      "TYPE": "Huyện ",
+      "VARNAME": "Tuy An",
+      "CENTER": [
+        13.271995581500951,
+        109.26131672498312
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "Phú Yên",
+      "NAME": "Tuy Hoà",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Tuy Hoa",
+      "CENTER": [
+        13.110699255480165,
+        109.26773755881412
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Quảng Bình",
+      "NAME": "Bố Trạch",
+      "TYPE": "Huyện ",
+      "VARNAME": "Bo Trach",
+      "CENTER": [
+        17.49393717775459,
+        106.27609606529734
+      ]
+    },
+    {
+      "ENGTYPE": "Town",
+      "PROVINCE": "Quảng Bình",
+      "NAME": "Ba Đồn",
+      "TYPE": "Thị xã",
+      "VARNAME": "Ba Don",
+      "CENTER": [
+        17.721346000896997,
+        106.33716941199039
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Quảng Bình",
+      "NAME": "Lệ Thủy",
+      "TYPE": "Huyện ",
+      "VARNAME": "Le Thuy",
+      "CENTER": [
+        17.088630610685957,
+        106.66346611094926
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Quảng Bình",
+      "NAME": "Minh Hóa",
+      "TYPE": "Huyện ",
+      "VARNAME": "Minh Hoa",
+      "CENTER": [
+        17.78884404658791,
+        105.8555003492829
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Quảng Bình",
+      "NAME": "Quảng Ninh",
+      "TYPE": "Huyện ",
+      "VARNAME": "Quang Ninh",
+      "CENTER": [
+        17.265003300819515,
+        106.45730411880858
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Quảng Bình",
+      "NAME": "Quảng Trạch",
+      "TYPE": "Huyện ",
+      "VARNAME": "Quang Trach",
+      "CENTER": [
+        17.89806238446522,
+        106.40352779658168
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "Quảng Bình",
+      "NAME": "Thành Phố Đồng Hới",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Dong Hoi",
+      "CENTER": [
+        17.43693956999926,
+        106.56743044472512
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Quảng Bình",
+      "NAME": "Tuyên Hóa",
+      "TYPE": "Huyện ",
+      "VARNAME": "Tuyen Hoa",
+      "CENTER": [
+        17.910012458050456,
+        106.01315312571785
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Quảng Nam",
+      "NAME": "Bắc Trà My",
+      "TYPE": "Huyện ",
+      "VARNAME": "Bac Tra My",
+      "CENTER": [
+        15.29901998527145,
+        108.20412026792279
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Quảng Nam",
+      "NAME": "Đại Lộc",
+      "TYPE": "Huyện ",
+      "VARNAME": "Dai Loc",
+      "CENTER": [
+        15.862144771441612,
+        107.98434427769739
+      ]
+    },
+    {
+      "ENGTYPE": "Town",
+      "PROVINCE": "Quảng Nam",
+      "NAME": "Điện Bàn",
+      "TYPE": "Thị xã",
+      "VARNAME": "Dien Ban",
+      "CENTER": [
+        15.911259175638108,
+        108.21076804857772
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Quảng Nam",
+      "NAME": "Đông Giang",
+      "TYPE": "Huyện ",
+      "VARNAME": "Dong Giang",
+      "CENTER": [
+        15.92988395230425,
+        107.78007075000625
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Quảng Nam",
+      "NAME": "Duy Xuyên",
+      "TYPE": "Huyện ",
+      "VARNAME": "Duy Xuyen",
+      "CENTER": [
+        15.808094964871636,
+        108.24213395448139
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "Quảng Nam",
+      "NAME": "Hội An",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Hoi An",
+      "CENTER": [
+        15.91010832456532,
+        108.4534852455304
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Quảng Nam",
+      "NAME": "Hiệp Đức",
+      "TYPE": "Huyện ",
+      "VARNAME": "Hiep Duc",
+      "CENTER": [
+        15.530727529994866,
+        108.12162103057507
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Quảng Nam",
+      "NAME": "Nam Giang",
+      "TYPE": "Huyện ",
+      "VARNAME": "Nam Giang",
+      "CENTER": [
+        15.594399580590707,
+        107.49624213250135
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Quảng Nam",
+      "NAME": "Nam Trà My",
+      "TYPE": "Huyện ",
+      "VARNAME": "Nam Tra My",
+      "CENTER": [
+        15.144964153771298,
+        108.08827281142209
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Quảng Nam",
+      "NAME": "Nông Sơn",
+      "TYPE": "Huyện ",
+      "VARNAME": "Nong Son",
+      "CENTER": [
+        15.65980967119111,
+        107.96523145516589
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Quảng Nam",
+      "NAME": "Núi Thành",
+      "TYPE": "Huyện ",
+      "VARNAME": "Nui Thanh",
+      "CENTER": [
+        15.444474662111359,
+        108.55036486088555
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Quảng Nam",
+      "NAME": "Phú Ninh",
+      "TYPE": "Huyện ",
+      "VARNAME": "Phu Ninh",
+      "CENTER": [
+        15.511225992154507,
+        108.43517608079108
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Quảng Nam",
+      "NAME": "Phước Sơn",
+      "TYPE": "Huyện ",
+      "VARNAME": "Phuoc Son",
+      "CENTER": [
+        15.414564923280272,
+        107.82193974423733
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Quảng Nam",
+      "NAME": "Quế Sơn",
+      "TYPE": "Huyện ",
+      "VARNAME": "Que Son",
+      "CENTER": [
+        15.71856491864885,
+        108.24758260223857
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "Quảng Nam",
+      "NAME": "Tam Kỳ",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Tam Ky",
+      "CENTER": [
+        15.5765538690168,
+        108.47703568550656
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Quảng Nam",
+      "NAME": "Tây Giang",
+      "TYPE": "Huyện ",
+      "VARNAME": "Tay Giang",
+      "CENTER": [
+        15.850419529965658,
+        107.38246237680642
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Quảng Nam",
+      "NAME": "Thăng Bình",
+      "TYPE": "Huyện ",
+      "VARNAME": "Thang Binh",
+      "CENTER": [
+        15.683641895518756,
+        108.33489419880658
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Quảng Nam",
+      "NAME": "Tiên Phước",
+      "TYPE": "Huyện ",
+      "VARNAME": "Tien Phuoc",
+      "CENTER": [
+        15.490084695711326,
+        108.25879029197706
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Quảng Ngãi",
+      "NAME": "Ba Tơ",
+      "TYPE": "Huyện ",
+      "VARNAME": "Ba To",
+      "CENTER": [
+        14.708672653411766,
+        108.70558267449547
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Quảng Ngãi",
+      "NAME": "Bình Sơn",
+      "TYPE": "Huyện ",
+      "VARNAME": "Binh Son",
+      "CENTER": [
+        15.294901738915842,
+        108.80492179447221
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Quảng Ngãi",
+      "NAME": "Đức Phổ",
+      "TYPE": "Huyện ",
+      "VARNAME": "Duc Pho",
+      "CENTER": [
+        14.737867749534745,
+        108.97877819669439
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Quảng Ngãi",
+      "NAME": "Lý Sơn",
+      "TYPE": "Huyện ",
+      "VARNAME": "Ly Son",
+      "CENTER": [
+        15.395944806735885,
+        109.11086160294408
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Quảng Ngãi",
+      "NAME": "Mộ Đức",
+      "TYPE": "Huyện ",
+      "VARNAME": "Mo Duc",
+      "CENTER": [
+        14.964481006536444,
+        108.86606137421282
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Quảng Ngãi",
+      "NAME": "Minh Long",
+      "TYPE": "Huyện ",
+      "VARNAME": "Minh Long",
+      "CENTER": [
+        14.95242683478661,
+        108.67865707056912
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Quảng Ngãi",
+      "NAME": "Nghĩa Hành",
+      "TYPE": "Huyện ",
+      "VARNAME": "Nghia Hanh",
+      "CENTER": [
+        14.990652981696805,
+        108.77674277535795
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "Quảng Ngãi",
+      "NAME": "Quảng Ngãi",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Quang Ngai",
+      "CENTER": [
+        15.152090038299244,
+        108.83213467897443
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Quảng Ngãi",
+      "NAME": "Sơn Hà",
+      "TYPE": "Huyện ",
+      "VARNAME": "Son Ha",
+      "CENTER": [
+        14.971237341652959,
+        108.49711644615546
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Quảng Ngãi",
+      "NAME": "Sơn Tịnh",
+      "TYPE": "Huyện ",
+      "VARNAME": "Son Tinh",
+      "CENTER": [
+        15.210339483918746,
+        108.72333468446719
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Quảng Ngãi",
+      "NAME": "Sơn Tây",
+      "TYPE": "Huyện ",
+      "VARNAME": "Son Tay",
+      "CENTER": [
+        14.964553580013142,
+        108.35920157149428
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Quảng Ngãi",
+      "NAME": "Tây Trà",
+      "TYPE": "Huyện ",
+      "VARNAME": "Tay Tra",
+      "CENTER": [
+        15.172414151850905,
+        108.35946743086119
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Quảng Ngãi",
+      "NAME": "Trà Bồng",
+      "TYPE": "Huyện ",
+      "VARNAME": "Tra Bong",
+      "CENTER": [
+        15.23639786141769,
+        108.50286792668744
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Quảng Ngãi",
+      "NAME": "Tư Nghĩa",
+      "TYPE": "Huyện ",
+      "VARNAME": "Tu Nghia",
+      "CENTER": [
+        15.084103614662018,
+        108.7757947397125
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Quảng Ninh",
+      "NAME": "Ba Chẽ",
+      "TYPE": "Huyện ",
+      "VARNAME": "Ba Che",
+      "CENTER": [
+        21.26278874282019,
+        107.17078849500234
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Quảng Ninh",
+      "NAME": "Bình Liêu",
+      "TYPE": "Huyện ",
+      "VARNAME": "Binh Lieu",
+      "CENTER": [
+        21.566259802670103,
+        107.45416550833289
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "Quảng Ninh",
+      "NAME": "Cẩm Phả",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Cam Pha",
+      "CENTER": [
+        21.0111696126406,
+        107.27278842050337
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Quảng Ninh",
+      "NAME": "Cô Tô",
+      "TYPE": "Huyện ",
+      "VARNAME": "Co To",
+      "CENTER": [
+        21.06729652168213,
+        107.8217796954606
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Quảng Ninh",
+      "NAME": "Đầm Hà",
+      "TYPE": "Huyện ",
+      "VARNAME": "Dam Ha",
+      "CENTER": [
+        21.29604448387932,
+        107.5813905588699
+      ]
+    },
+    {
+      "ENGTYPE": "Town",
+      "PROVINCE": "Quảng Ninh",
+      "NAME": "Đông Triều",
+      "TYPE": "Thị xã",
+      "VARNAME": "Dong Trieu",
+      "CENTER": [
+        21.104769958507113,
+        106.58435142800359
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "Quảng Ninh",
+      "NAME": "Hạ Long",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Ha Long",
+      "CENTER": [
+        20.949065315366767,
+        107.05870110752994
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Quảng Ninh",
+      "NAME": "Hải Hà",
+      "TYPE": "Huyện ",
+      "VARNAME": "Hai Ha",
+      "CENTER": [
+        21.387503996916877,
+        107.7075357462443
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Quảng Ninh",
+      "NAME": "Hoành Bồ",
+      "TYPE": "Huyện ",
+      "VARNAME": "Hoanh Bo",
+      "CENTER": [
+        21.12189929675559,
+        107.03641949781952
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "Quảng Ninh",
+      "NAME": "Móng Cái",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Mong Cai",
+      "CENTER": [
+        21.46936338680132,
+        107.90186636213681
+      ]
+    },
+    {
+      "ENGTYPE": "Town",
+      "PROVINCE": "Quảng Ninh",
+      "NAME": "Quảng Yên",
+      "TYPE": "Thị xã",
+      "VARNAME": "Quang Yen",
+      "CENTER": [
+        20.94101814810164,
+        106.87829515910734
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Quảng Ninh",
+      "NAME": "Tiên Yên",
+      "TYPE": "Huyện ",
+      "VARNAME": "Tien Yen",
+      "CENTER": [
+        21.396941262186434,
+        107.35672693278606
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "Quảng Ninh",
+      "NAME": "Uông Bí",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Uong Bi",
+      "CENTER": [
+        21.06980592132042,
+        106.7577534172483
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Quảng Ninh",
+      "NAME": "Vân Đồn",
+      "TYPE": "Huyện ",
+      "VARNAME": "Van Don",
+      "CENTER": [
+        20.981444817720412,
+        107.44152465764125
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Quảng Trị",
+      "NAME": "Cồn Cỏ",
+      "TYPE": "Huyện ",
+      "VARNAME": "Con Co",
+      "CENTER": [
+        17.155819403967858,
+        107.33739859476336
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Quảng Trị",
+      "NAME": "Cam Lộ",
+      "TYPE": "Huyện ",
+      "VARNAME": "Cam Lo",
+      "CENTER": [
+        16.80549146975474,
+        106.97631143435471
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Quảng Trị",
+      "NAME": "Đa Krông",
+      "TYPE": "Huyện ",
+      "VARNAME": "Da Krong",
+      "CENTER": [
+        16.5572721884644,
+        106.94441967079203
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "Quảng Trị",
+      "NAME": "Đông Hà",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Dong Ha",
+      "CENTER": [
+        16.792004913034503,
+        107.08060767727792
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Quảng Trị",
+      "NAME": "Gio Linh",
+      "TYPE": "Huyện ",
+      "VARNAME": "Gio Linh",
+      "CENTER": [
+        16.890875790686707,
+        106.92159220440375
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Quảng Trị",
+      "NAME": "Hải Lăng",
+      "TYPE": "Huyện ",
+      "VARNAME": "Hai Lang",
+      "CENTER": [
+        16.67412643776802,
+        107.23672725105048
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Quảng Trị",
+      "NAME": "Hướng Hóa",
+      "TYPE": "Huyện ",
+      "VARNAME": "Huong Hoa",
+      "CENTER": [
+        16.62291927259525,
+        106.68884621808466
+      ]
+    },
+    {
+      "ENGTYPE": "Town",
+      "PROVINCE": "Quảng Trị",
+      "NAME": "Quảng Trị",
+      "TYPE": "Thị xã",
+      "VARNAME": "Quang Tri",
+      "CENTER": [
+        16.70147509518795,
+        107.1572266824247
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Quảng Trị",
+      "NAME": "Triệu Phong",
+      "TYPE": "Huyện ",
+      "VARNAME": "Trieu Phong",
+      "CENTER": [
+        16.752579990398264,
+        107.1304409941874
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Quảng Trị",
+      "NAME": "Vĩnh Linh",
+      "TYPE": "Huyện ",
+      "VARNAME": "Vinh Linh",
+      "CENTER": [
+        16.972162304125128,
+        106.87767320315999
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Sóc Trăng",
+      "NAME": "Châu Thành",
+      "TYPE": "Huyện ",
+      "VARNAME": "Chau Thanh",
+      "CENTER": [
+        9.678710778906055,
+        105.9119981895075
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Sóc Trăng",
+      "NAME": "Cù Lao Dung",
+      "TYPE": "Huyện ",
+      "VARNAME": "Cu Lao Dung",
+      "CENTER": [
+        9.623340602271949,
+        106.18481507177938
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Sóc Trăng",
+      "NAME": "Kế Sách",
+      "TYPE": "Huyện ",
+      "VARNAME": "Ke Sach",
+      "CENTER": [
+        9.80538816714005,
+        105.93816552198035
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Sóc Trăng",
+      "NAME": "Long Phú",
+      "TYPE": "Huyện ",
+      "VARNAME": "Long Phu",
+      "CENTER": [
+        9.634099855080581,
+        106.04588666065295
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Sóc Trăng",
+      "NAME": "Mỹ Tú",
+      "TYPE": "Huyện ",
+      "VARNAME": "My Tu",
+      "CENTER": [
+        9.59423013025369,
+        105.83453056489513
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Sóc Trăng",
+      "NAME": "Mỹ Xuyên",
+      "TYPE": "Huyện ",
+      "VARNAME": "My Xuyen",
+      "CENTER": [
+        9.463351989450253,
+        105.87694940346316
+      ]
+    },
+    {
+      "ENGTYPE": "Town",
+      "PROVINCE": "Sóc Trăng",
+      "NAME": "Ngã Năm",
+      "TYPE": "Thị xã",
+      "VARNAME": "Nga Nam",
+      "CENTER": [
+        9.555724497337017,
+        105.61711277140184
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "Sóc Trăng",
+      "NAME": "Sóc Trăng",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Soc Trang",
+      "CENTER": [
+        9.620117025817796,
+        105.98594441989195
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Sóc Trăng",
+      "NAME": "Thạnh Trị",
+      "TYPE": "Huyện ",
+      "VARNAME": "Thanh Tri",
+      "CENTER": [
+        9.458541086920336,
+        105.73486377561312
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Sóc Trăng",
+      "NAME": "Trần Đề",
+      "TYPE": "Huyện ",
+      "VARNAME": "Tran De",
+      "CENTER": [
+        9.52842895360252,
+        106.04531775609047
+      ]
+    },
+    {
+      "ENGTYPE": "Town",
+      "PROVINCE": "Sóc Trăng",
+      "NAME": "Vĩnh Châu",
+      "TYPE": "Thị xã",
+      "VARNAME": "Vinh Chau",
+      "CENTER": [
+        9.349511589179262,
+        105.97983975668708
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Sơn La",
+      "NAME": "Bắc Yên",
+      "TYPE": "Huyện ",
+      "VARNAME": "Bac Yen",
+      "CENTER": [
+        21.260080722315614,
+        104.42334922134017
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Sơn La",
+      "NAME": "Mộc Châu",
+      "TYPE": "Huyện ",
+      "VARNAME": "Moc Chau",
+      "CENTER": [
+        20.86766300891522,
+        104.61386982245452
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Sơn La",
+      "NAME": "Mai Sơn",
+      "TYPE": "Huyện ",
+      "VARNAME": "Mai Son",
+      "CENTER": [
+        21.17896585577732,
+        103.98642103137333
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Sơn La",
+      "NAME": "Mường La",
+      "TYPE": "Huyện ",
+      "VARNAME": "Muong La",
+      "CENTER": [
+        21.5368956418873,
+        104.03504300569116
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Sơn La",
+      "NAME": "Phù Yên",
+      "TYPE": "Huyện ",
+      "VARNAME": "Phu Yen",
+      "CENTER": [
+        21.232234591770318,
+        104.65029951899764
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Sơn La",
+      "NAME": "Quỳnh Nhai",
+      "TYPE": "Huyện ",
+      "VARNAME": "Quynh Nhai",
+      "CENTER": [
+        21.760083076721873,
+        103.65530339539698
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Sơn La",
+      "NAME": "Sốp Cộp",
+      "TYPE": "Huyện ",
+      "VARNAME": "Sop Cop",
+      "CENTER": [
+        20.864497587869106,
+        103.51529765612018
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "Sơn La",
+      "NAME": "Sơn La",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Son La",
+      "CENTER": [
+        21.325107570896197,
+        103.90842042409034
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Sơn La",
+      "NAME": "Sông Mã",
+      "TYPE": "Huyện ",
+      "VARNAME": "Song Ma",
+      "CENTER": [
+        21.085792042562648,
+        103.70612570619105
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Sơn La",
+      "NAME": "Thuận Châu",
+      "TYPE": "Huyện ",
+      "VARNAME": "Thuan Chau",
+      "CENTER": [
+        21.401307819098175,
+        103.66126411210323
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Sơn La",
+      "NAME": "Vân Hồ",
+      "TYPE": "Huyện ",
+      "VARNAME": "Van Ho",
+      "CENTER": [
+        20.799062995059096,
+        104.80407117202029
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Sơn La",
+      "NAME": "Yên Châu",
+      "TYPE": "Huyện ",
+      "VARNAME": "Yen Chau",
+      "CENTER": [
+        20.960953909988998,
+        104.3217037454469
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Tây Ninh",
+      "NAME": "Bến Cầu",
+      "TYPE": "Huyện ",
+      "VARNAME": "Ben Cau",
+      "CENTER": [
+        11.116298002470607,
+        106.14724071444718
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Tây Ninh",
+      "NAME": "Châu Thành",
+      "TYPE": "Huyện ",
+      "VARNAME": "Chau Thanh",
+      "CENTER": [
+        11.324440620275732,
+        105.97216895945749
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Tây Ninh",
+      "NAME": "Dương Minh Châu",
+      "TYPE": "Huyện ",
+      "VARNAME": "Duong Minh Chau",
+      "CENTER": [
+        11.306191371413545,
+        106.24183601506938
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Tây Ninh",
+      "NAME": "Gò Dầu",
+      "TYPE": "Huyện ",
+      "VARNAME": "Go Dau",
+      "CENTER": [
+        11.170684146866876,
+        106.25140170193356
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Tây Ninh",
+      "NAME": "Hòa Thành",
+      "TYPE": "Huyện ",
+      "VARNAME": "Hoa Thanh",
+      "CENTER": [
+        11.264131383367786,
+        106.14214254665464
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Tây Ninh",
+      "NAME": "Tân Biên",
+      "TYPE": "Huyện ",
+      "VARNAME": "Tan Bien",
+      "CENTER": [
+        11.591168016850347,
+        105.94815885426948
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Tây Ninh",
+      "NAME": "Tân Châu",
+      "TYPE": "Huyện ",
+      "VARNAME": "Tan Chau",
+      "CENTER": [
+        11.622705812119182,
+        106.28828484628671
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "Tây Ninh",
+      "NAME": "Tây Ninh",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Tay Ninh",
+      "CENTER": [
+        11.381352508322388,
+        106.12477361799623
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Tây Ninh",
+      "NAME": "Trảng Bàng",
+      "TYPE": "Huyện ",
+      "VARNAME": "Trang Bang",
+      "CENTER": [
+        11.06813023799669,
+        106.32400733344593
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Thừa Thiên Huế",
+      "NAME": "A Lưới",
+      "TYPE": "Huyện ",
+      "VARNAME": "A Luoi",
+      "CENTER": [
+        16.199133612813494,
+        107.3414917408871
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "Thừa Thiên Huế",
+      "NAME": "Huế",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Hue",
+      "CENTER": [
+        16.464691504590725,
+        107.57365869610304
+      ]
+    },
+    {
+      "ENGTYPE": "Town",
+      "PROVINCE": "Thừa Thiên Huế",
+      "NAME": "Hương Thủy",
+      "TYPE": "Thị xã",
+      "VARNAME": "Huong Thuy",
+      "CENTER": [
+        16.316442934367103,
+        107.61135782532365
+      ]
+    },
+    {
+      "ENGTYPE": "Town",
+      "PROVINCE": "Thừa Thiên Huế",
+      "NAME": "Hương Trà",
+      "TYPE": "Thị xã",
+      "VARNAME": "Huong Tra",
+      "CENTER": [
+        16.40987311425285,
+        107.4818167033391
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Thừa Thiên Huế",
+      "NAME": "Nam Đông",
+      "TYPE": "Huyện ",
+      "VARNAME": "Nam Dong",
+      "CENTER": [
+        16.121751664156385,
+        107.66304936270848
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Thừa Thiên Huế",
+      "NAME": "Phong Điền",
+      "TYPE": "Huyện ",
+      "VARNAME": "Phong Dien",
+      "CENTER": [
+        16.514195044461925,
+        107.31509360015964
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Thừa Thiên Huế",
+      "NAME": "Phú Lộc",
+      "TYPE": "Huyện ",
+      "VARNAME": "Phu Loc",
+      "CENTER": [
+        16.26239687793148,
+        107.89044541097036
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Thừa Thiên Huế",
+      "NAME": "Phú Vang",
+      "TYPE": "Huyện ",
+      "VARNAME": "Phu Vang",
+      "CENTER": [
+        16.45237791524601,
+        107.69127963608199
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Thừa Thiên Huế",
+      "NAME": "Quảng Điền",
+      "TYPE": "Huyện ",
+      "VARNAME": "Quang Dien",
+      "CENTER": [
+        16.57883982503045,
+        107.48993274866613
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Thái Bình",
+      "NAME": "Đông Hưng",
+      "TYPE": "Huyện ",
+      "VARNAME": "Dong Hung",
+      "CENTER": [
+        20.55284829953296,
+        106.33310637615376
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Thái Bình",
+      "NAME": "Hưng Hà",
+      "TYPE": "Huyện ",
+      "VARNAME": "Hung Ha",
+      "CENTER": [
+        20.596590343205136,
+        106.23476058105211
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Thái Bình",
+      "NAME": "Kiến Xương",
+      "TYPE": "Huyện ",
+      "VARNAME": "Kien Xuong",
+      "CENTER": [
+        20.41392297414744,
+        106.42456966231747
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Thái Bình",
+      "NAME": "Quỳnh Phụ",
+      "TYPE": "Huyện ",
+      "VARNAME": "Quynh Phu",
+      "CENTER": [
+        20.637501957055395,
+        106.35909012824179
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "Thái Bình",
+      "NAME": "Thái Bình",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Thai Binh",
+      "CENTER": [
+        20.45833801276715,
+        106.35061464129396
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Thái Bình",
+      "NAME": "Thái Thụy",
+      "TYPE": "Huyện ",
+      "VARNAME": "Thai Thuy",
+      "CENTER": [
+        20.548780182404176,
+        106.52254056965756
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Thái Bình",
+      "NAME": "Tiền Hải",
+      "TYPE": "Huyện ",
+      "VARNAME": "Tien Hai",
+      "CENTER": [
+        20.38134340547225,
+        106.52290440228974
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Thái Bình",
+      "NAME": "Vũ Thư",
+      "TYPE": "Huyện ",
+      "VARNAME": "Vu Thu",
+      "CENTER": [
+        20.4308928788886,
+        106.30084384557831
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Thái Nguyên",
+      "NAME": "Đại Từ",
+      "TYPE": "Huyện ",
+      "VARNAME": "Dai Tu",
+      "CENTER": [
+        21.606530652815195,
+        105.65731836426806
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Thái Nguyên",
+      "NAME": "Định Hóa",
+      "TYPE": "Huyện ",
+      "VARNAME": "Dinh Hoa",
+      "CENTER": [
+        21.90541159665317,
+        105.63762629707844
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Thái Nguyên",
+      "NAME": "Đồng Hỷ",
+      "TYPE": "Huyện ",
+      "VARNAME": "Dong Hy",
+      "CENTER": [
+        21.66084424998415,
+        105.92392175498578
+      ]
+    },
+    {
+      "ENGTYPE": "Town",
+      "PROVINCE": "Thái Nguyên",
+      "NAME": "Phổ Yên",
+      "TYPE": "Thị xã",
+      "VARNAME": "Pho Yen",
+      "CENTER": [
+        21.439650759856935,
+        105.80404897268355
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Thái Nguyên",
+      "NAME": "Phú Bình",
+      "TYPE": "Huyện ",
+      "VARNAME": "Phu Binh",
+      "CENTER": [
+        21.4825606903602,
+        105.97014492626924
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Thái Nguyên",
+      "NAME": "Phú Lương",
+      "TYPE": "Huyện ",
+      "VARNAME": "Phu Luong",
+      "CENTER": [
+        21.766766232192314,
+        105.73115731681578
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "Thái Nguyên",
+      "NAME": "Sông Công",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Song Cong",
+      "CENTER": [
+        21.50192467560832,
+        105.84263546740063
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "Thái Nguyên",
+      "NAME": "Thái Nguyên",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Thai Nguyen",
+      "CENTER": [
+        21.58011205137945,
+        105.82153698961702
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Thái Nguyên",
+      "NAME": "Võ Nhai",
+      "TYPE": "Huyện ",
+      "VARNAME": "Vo Nhai",
+      "CENTER": [
+        21.779723009247924,
+        106.0409320987476
+      ]
+    },
+    {
+      "ENGTYPE": "Town",
+      "PROVINCE": "Thanh Hóa",
+      "NAME": "Bỉm Sơn",
+      "TYPE": "Thị xã",
+      "VARNAME": "Bim Son",
+      "CENTER": [
+        20.080882642977553,
+        105.88075166112138
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Thanh Hóa",
+      "NAME": "Bá Thước",
+      "TYPE": "Huyện ",
+      "VARNAME": "Ba Thuoc",
+      "CENTER": [
+        20.355713545681855,
+        105.22800839821141
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Thanh Hóa",
+      "NAME": "Cẩm Thủy",
+      "TYPE": "Huyện ",
+      "VARNAME": "Cam Thuy",
+      "CENTER": [
+        20.19734134944535,
+        105.45511599524944
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Thanh Hóa",
+      "NAME": "Đông Sơn",
+      "TYPE": "Huyện ",
+      "VARNAME": "Dong Son",
+      "CENTER": [
+        19.80023718172538,
+        105.70068466858977
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Thanh Hóa",
+      "NAME": "Hậu Lộc",
+      "TYPE": "Huyện ",
+      "VARNAME": "Hau Loc",
+      "CENTER": [
+        19.933113846863314,
+        105.89048312409862
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Thanh Hóa",
+      "NAME": "Hà Trung",
+      "TYPE": "Huyện ",
+      "VARNAME": "Ha Trung",
+      "CENTER": [
+        20.050909714134754,
+        105.85746567624645
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Thanh Hóa",
+      "NAME": "Hoằng Hóa",
+      "TYPE": "Huyện ",
+      "VARNAME": "Hoang Hoa",
+      "CENTER": [
+        19.875548085150356,
+        105.83977754237185
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Thanh Hóa",
+      "NAME": "Lang Chánh",
+      "TYPE": "Huyện ",
+      "VARNAME": "Lang Chanh",
+      "CENTER": [
+        20.142670848338128,
+        105.1255990526804
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Thanh Hóa",
+      "NAME": "Mường Lát",
+      "TYPE": "Huyện ",
+      "VARNAME": "Muong Lat",
+      "CENTER": [
+        20.46827682510332,
+        104.56093107064332
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Thanh Hóa",
+      "NAME": "Ngọc Lặc",
+      "TYPE": "Huyện ",
+      "VARNAME": "Ngoc Lac",
+      "CENTER": [
+        20.033775962355566,
+        105.3995109818542
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Thanh Hóa",
+      "NAME": "Nga Sơn",
+      "TYPE": "Huyện ",
+      "VARNAME": "Nga Son",
+      "CENTER": [
+        20.002806877403923,
+        105.96393616480168
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Thanh Hóa",
+      "NAME": "Như Thanh",
+      "TYPE": "Huyện ",
+      "VARNAME": "Nhu Thanh",
+      "CENTER": [
+        19.61222792334625,
+        105.55662105114885
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Thanh Hóa",
+      "NAME": "Như Xuân",
+      "TYPE": "Huyện ",
+      "VARNAME": "Nhu Xuan",
+      "CENTER": [
+        19.591486548382914,
+        105.3527639692057
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Thanh Hóa",
+      "NAME": "Nông Cống",
+      "TYPE": "Huyện ",
+      "VARNAME": "Nong Cong",
+      "CENTER": [
+        19.60774653356569,
+        105.67950493163336
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Thanh Hóa",
+      "NAME": "Quảng Xương",
+      "TYPE": "Huyện ",
+      "VARNAME": "Quang Xuong",
+      "CENTER": [
+        19.679538956740885,
+        105.76940327717134
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Thanh Hóa",
+      "NAME": "Quan Hóa",
+      "TYPE": "Huyện ",
+      "VARNAME": "Quan Hoa",
+      "CENTER": [
+        20.467312098175697,
+        104.93754711863298
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Thanh Hóa",
+      "NAME": "Quan Sơn",
+      "TYPE": "Huyện ",
+      "VARNAME": "Quan Son",
+      "CENTER": [
+        20.26555044124641,
+        104.80942802873231
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "Thanh Hóa",
+      "NAME": "Sầm Sơn",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Sam Son",
+      "CENTER": [
+        19.73498593303519,
+        105.85297262092863
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Thanh Hóa",
+      "NAME": "Thạch Thành",
+      "TYPE": "Huyện ",
+      "VARNAME": "Thach Thanh",
+      "CENTER": [
+        20.181287783975403,
+        105.6488932268603
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Thanh Hóa",
+      "NAME": "Thọ Xuân",
+      "TYPE": "Huyện ",
+      "VARNAME": "Tho Xuan",
+      "CENTER": [
+        19.947508449849124,
+        105.4910112930015
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "Thanh Hóa",
+      "NAME": "Thanh Hóa",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Thanh Hoa",
+      "CENTER": [
+        19.800406970645184,
+        105.78418035445925
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Thanh Hóa",
+      "NAME": "Thiệu Hóa",
+      "TYPE": "Huyện ",
+      "VARNAME": "Thieu Hoa",
+      "CENTER": [
+        19.90094540734043,
+        105.67176792227065
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Thanh Hóa",
+      "NAME": "Thường Xuân",
+      "TYPE": "Huyện ",
+      "VARNAME": "Thuong Xuan",
+      "CENTER": [
+        19.910595545581025,
+        105.1801317251216
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Thanh Hóa",
+      "NAME": "Tĩnh Gia",
+      "TYPE": "Huyện ",
+      "VARNAME": "Tinh Gia",
+      "CENTER": [
+        19.417741505944488,
+        105.79087866266428
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Thanh Hóa",
+      "NAME": "Triệu Sơn",
+      "TYPE": "Huyện ",
+      "VARNAME": "Trieu Son",
+      "CENTER": [
+        19.81062933440836,
+        105.57108302682616
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Thanh Hóa",
+      "NAME": "Vĩnh Lộc",
+      "TYPE": "Huyện ",
+      "VARNAME": "Vinh Loc",
+      "CENTER": [
+        20.049156903381608,
+        105.67517686279963
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Thanh Hóa",
+      "NAME": "Yên Định",
+      "TYPE": "Huyện ",
+      "VARNAME": "Yen Dinh",
+      "CENTER": [
+        19.988262965085713,
+        105.59012647813752
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Tiền Giang",
+      "NAME": "Cái Bè",
+      "TYPE": "Huyện ",
+      "VARNAME": "Cai Be",
+      "CENTER": [
+        10.363451617216928,
+        105.95356706131989
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Tiền Giang",
+      "NAME": "Cai Lậy",
+      "TYPE": "Huyện ",
+      "VARNAME": "Cai Lay",
+      "CENTER": [
+        10.377180019852254,
+        106.1123514168413
+      ]
+    },
+    {
+      "ENGTYPE": "Town",
+      "PROVINCE": "Tiền Giang",
+      "NAME": "Cai Lậy (Thị xã)",
+      "TYPE": "Thị xã",
+      "VARNAME": "Cai Lay",
+      "CENTER": [
+        10.400962512184845,
+        106.1375153585856
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Tiền Giang",
+      "NAME": "Chợ Gạo",
+      "TYPE": "Huyện ",
+      "VARNAME": "Cho Gao",
+      "CENTER": [
+        10.411503190815207,
+        106.44611322554833
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Tiền Giang",
+      "NAME": "Châu Thành",
+      "TYPE": "Huyện ",
+      "VARNAME": "Chau Thanh",
+      "CENTER": [
+        10.426039575479999,
+        106.29082925591626
+      ]
+    },
+    {
+      "ENGTYPE": "Town",
+      "PROVINCE": "Tiền Giang",
+      "NAME": "Gò Công",
+      "TYPE": "Thị xã",
+      "VARNAME": "Go Cong",
+      "CENTER": [
+        10.414383352978938,
+        106.66061841271208
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Tiền Giang",
+      "NAME": "Gò Công Đông",
+      "TYPE": "Huyện ",
+      "VARNAME": "Go Cong Dong",
+      "CENTER": [
+        10.370065538282194,
+        106.70914260398304
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Tiền Giang",
+      "NAME": "Gò Công Tây",
+      "TYPE": "Huyện ",
+      "VARNAME": "Go Cong Tay",
+      "CENTER": [
+        10.37218972692071,
+        106.57776310206589
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "Tiền Giang",
+      "NAME": "Mỹ Tho",
+      "TYPE": "Thành phố ",
+      "VARNAME": "My Tho",
+      "CENTER": [
+        10.383779408333389,
+        106.35895121819455
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Tiền Giang",
+      "NAME": "Tân Phú Đông",
+      "TYPE": "Huyện ",
+      "VARNAME": "Tan Phu Dong",
+      "CENTER": [
+        10.24973118773013,
+        106.67884502466462
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Tiền Giang",
+      "NAME": "Tân Phước",
+      "TYPE": "Huyện ",
+      "VARNAME": "Tan Phuoc",
+      "CENTER": [
+        10.5074448872689,
+        106.27816046471227
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Trà Vinh",
+      "NAME": "Cầu Kè",
+      "TYPE": "Huyện ",
+      "VARNAME": "Cau Ke",
+      "CENTER": [
+        9.857912196774558,
+        106.08654636968646
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Trà Vinh",
+      "NAME": "Cầu Ngang",
+      "TYPE": "Huyện ",
+      "VARNAME": "Cau Ngang",
+      "CENTER": [
+        9.759511492832983,
+        106.41351825969309
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Trà Vinh",
+      "NAME": "Càng Long",
+      "TYPE": "Huyện ",
+      "VARNAME": "Cang Long",
+      "CENTER": [
+        9.964967402550078,
+        106.22622567721305
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Trà Vinh",
+      "NAME": "Châu Thành",
+      "TYPE": "Huyện ",
+      "VARNAME": "Chau Thanh",
+      "CENTER": [
+        9.881278114418018,
+        106.33578034926458
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Trà Vinh",
+      "NAME": "Duyên Hải",
+      "TYPE": "Huyện ",
+      "VARNAME": "Duyen Hai",
+      "CENTER": [
+        9.620518365311161,
+        106.4141384633321
+      ]
+    },
+    {
+      "ENGTYPE": "Town",
+      "PROVINCE": "Trà Vinh",
+      "NAME": "Duyên Hải (Thị xã)",
+      "TYPE": "Thị xã",
+      "VARNAME": "Duyen Hai",
+      "CENTER": [
+        9.649315903155653,
+        106.49522129084684
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Trà Vinh",
+      "NAME": "Tiểu Cần",
+      "TYPE": "Huyện ",
+      "VARNAME": "Tieu Can",
+      "CENTER": [
+        9.814394170237334,
+        106.19725286381892
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Trà Vinh",
+      "NAME": "Trà Cú",
+      "TYPE": "Huyện ",
+      "VARNAME": "Tra Cu",
+      "CENTER": [
+        9.73480533149246,
+        106.3032104787969
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "Trà Vinh",
+      "NAME": "Trà Vinh",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Tra Vinh",
+      "CENTER": [
+        9.943585614668736,
+        106.32765430068898
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Tuyên Quang",
+      "NAME": "Chiêm Hóa",
+      "TYPE": "Huyện ",
+      "VARNAME": "Chiem Hoa",
+      "CENTER": [
+        22.19164177931994,
+        105.2614045461545
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Tuyên Quang",
+      "NAME": "Hàm Yên",
+      "TYPE": "Huyện ",
+      "VARNAME": "Ham Yen",
+      "CENTER": [
+        22.12177588504914,
+        104.99905351211375
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Tuyên Quang",
+      "NAME": "Lâm Bình",
+      "TYPE": "Huyện ",
+      "VARNAME": "Lam Binh",
+      "CENTER": [
+        22.488893825129413,
+        105.2121285086244
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Tuyên Quang",
+      "NAME": "Nà Hang",
+      "TYPE": "Huyện ",
+      "VARNAME": "Na Hang",
+      "CENTER": [
+        22.448340699425472,
+        105.41757530914394
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Tuyên Quang",
+      "NAME": "Sơn Dương",
+      "TYPE": "Huyện ",
+      "VARNAME": "Son Duong",
+      "CENTER": [
+        21.66979464210764,
+        105.3907549181625
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "Tuyên Quang",
+      "NAME": "Tuyên Quang",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Tuyen Quang",
+      "CENTER": [
+        21.794460823680193,
+        105.21495415812522
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Tuyên Quang",
+      "NAME": "Yên Sơn",
+      "TYPE": "Huyện ",
+      "VARNAME": "Yen Son",
+      "CENTER": [
+        21.857465179838734,
+        105.27644645416903
+      ]
+    },
+    {
+      "ENGTYPE": "Town",
+      "PROVINCE": "Vĩnh Long",
+      "NAME": "Bình Minh",
+      "TYPE": "Thị xã",
+      "VARNAME": "Binh Minh",
+      "CENTER": [
+        10.031965167914123,
+        105.85080412592828
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Vĩnh Long",
+      "NAME": "Bình Tân",
+      "TYPE": "Huyện ",
+      "VARNAME": "Binh Tan",
+      "CENTER": [
+        10.122073507085384,
+        105.81119031125752
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Vĩnh Long",
+      "NAME": "Long Hồ",
+      "TYPE": "Huyện ",
+      "VARNAME": "Long Ho",
+      "CENTER": [
+        10.21477188151624,
+        105.97345079088284
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Vĩnh Long",
+      "NAME": "Mang Thít",
+      "TYPE": "Huyện ",
+      "VARNAME": "Mang Thit",
+      "CENTER": [
+        10.184257535769097,
+        106.07522220290113
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Vĩnh Long",
+      "NAME": "Tam Bình",
+      "TYPE": "Huyện ",
+      "VARNAME": "Tam Binh",
+      "CENTER": [
+        10.085369149389415,
+        105.9417133896345
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Vĩnh Long",
+      "NAME": "Trà Ôn",
+      "TYPE": "Huyện ",
+      "VARNAME": "Tra On",
+      "CENTER": [
+        9.986373801192451,
+        105.99403391728785
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "Vĩnh Long",
+      "NAME": "Vĩnh Long",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Vinh Long",
+      "CENTER": [
+        10.245589363846126,
+        105.94352470712064
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Vĩnh Long",
+      "NAME": "Vũng Liêm",
+      "TYPE": "Huyện ",
+      "VARNAME": "Vung Liem",
+      "CENTER": [
+        10.077067218589402,
+        106.14600848451475
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Vĩnh Phúc",
+      "NAME": "Bình Xuyên",
+      "TYPE": "Huyện ",
+      "VARNAME": "Binh Xuyen",
+      "CENTER": [
+        21.31898947292329,
+        105.66985501067214
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Vĩnh Phúc",
+      "NAME": "Lập Thạch",
+      "TYPE": "Huyện ",
+      "VARNAME": "Lap Thach",
+      "CENTER": [
+        21.407741467323195,
+        105.47926055200669
+      ]
+    },
+    {
+      "ENGTYPE": "Town",
+      "PROVINCE": "Vĩnh Phúc",
+      "NAME": "Phúc Yên",
+      "TYPE": "Thị xã",
+      "VARNAME": "Phuc Yen",
+      "CENTER": [
+        21.305936096032813,
+        105.71820725779118
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Vĩnh Phúc",
+      "NAME": "Sông Lô",
+      "TYPE": "Huyện ",
+      "VARNAME": "Song Lo",
+      "CENTER": [
+        21.433834020878898,
+        105.40449399271927
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Vĩnh Phúc",
+      "NAME": "Tam Đảo",
+      "TYPE": "Huyện ",
+      "VARNAME": "Tam Dao",
+      "CENTER": [
+        21.446477776077526,
+        105.58485696984165
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Vĩnh Phúc",
+      "NAME": "Tam Dương",
+      "TYPE": "Huyện ",
+      "VARNAME": "Tam Duong",
+      "CENTER": [
+        21.36164264823442,
+        105.55563923434819
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Vĩnh Phúc",
+      "NAME": "Vĩnh Tường",
+      "TYPE": "Huyện ",
+      "VARNAME": "Vinh Tuong",
+      "CENTER": [
+        21.27275115988843,
+        105.50880722097686
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "Vĩnh Phúc",
+      "NAME": "Vĩnh Yên",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Vinh Yen",
+      "CENTER": [
+        21.303799656470176,
+        105.59226616772477
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Vĩnh Phúc",
+      "NAME": "Yên Lạc",
+      "TYPE": "Huyện ",
+      "VARNAME": "Yen Lac",
+      "CENTER": [
+        21.234914641354305,
+        105.58170748226253
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Yên Bái",
+      "NAME": "Lục Yên",
+      "TYPE": "Huyện ",
+      "VARNAME": "Luc Yen",
+      "CENTER": [
+        22.123573454669806,
+        104.71768287528133
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Yên Bái",
+      "NAME": "Mù Căng Chải",
+      "TYPE": "Huyện ",
+      "VARNAME": "Mu Cang Chai",
+      "CENTER": [
+        21.80240757272817,
+        104.15069323809801
+      ]
+    },
+    {
+      "ENGTYPE": "Town",
+      "PROVINCE": "Yên Bái",
+      "NAME": "Nghĩa Lộ",
+      "TYPE": "Thị xã",
+      "VARNAME": "Nghia Lo",
+      "CENTER": [
+        21.60387786718528,
+        104.49621372406007
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Yên Bái",
+      "NAME": "Trạm Tấu",
+      "TYPE": "Huyện ",
+      "VARNAME": "Tram Tau",
+      "CENTER": [
+        21.512199848647178,
+        104.45647579346146
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Yên Bái",
+      "NAME": "Trấn Yên",
+      "TYPE": "Huyện ",
+      "VARNAME": "Tran Yen",
+      "CENTER": [
+        21.69054284464752,
+        104.80942924766005
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Yên Bái",
+      "NAME": "Văn Chấn",
+      "TYPE": "Huyện ",
+      "VARNAME": "Van Chan",
+      "CENTER": [
+        21.578099416359954,
+        104.57939288193228
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Yên Bái",
+      "NAME": "Văn Yên",
+      "TYPE": "Huyện ",
+      "VARNAME": "Van Yen",
+      "CENTER": [
+        21.905065982633825,
+        104.55954712496148
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "PROVINCE": "Yên Bái",
+      "NAME": "Yên Bái",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Yen Bai",
+      "CENTER": [
+        21.70884602105188,
+        104.90069343377422
+      ]
+    },
+    {
+      "ENGTYPE": "District",
+      "PROVINCE": "Yên Bái",
+      "NAME": "Yên Bình",
+      "TYPE": "Huyện ",
+      "VARNAME": "Yen Binh",
+      "CENTER": [
+        21.831755130439575,
+        104.96193941951057
+      ]
+    }
+  ]
+}

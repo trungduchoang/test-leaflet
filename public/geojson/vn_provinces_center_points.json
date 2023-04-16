@@ -1,0 +1,634 @@
+{
+  "data": [
+    {
+      "ENGTYPE": "Province",
+      "NAME": "An Giang",
+      "TYPE": "Tỉnh",
+      "VARNAME": "An Giang",
+      "CENTER": [
+        10.53582160749393,
+        104.99338686630354
+      ]
+    },
+    {
+      "ENGTYPE": "Province",
+      "NAME": "Bạc Liêu",
+      "TYPE": "Tỉnh",
+      "VARNAME": "Bac Lieu",
+      "CENTER": [
+        9.393248566185775,
+        105.41697660241886
+      ]
+    },
+    {
+      "ENGTYPE": "Province",
+      "NAME": "Bắc Giang",
+      "TYPE": "Tỉnh",
+      "VARNAME": "Bac Giang",
+      "CENTER": [
+        21.360011732215906,
+        106.42374058608186
+      ]
+    },
+    {
+      "ENGTYPE": "Province",
+      "NAME": "Bắc Kạn",
+      "TYPE": "Tỉnh",
+      "VARNAME": "Bac Kan",
+      "CENTER": [
+        22.27560486608814,
+        105.80854533609376
+      ]
+    },
+    {
+      "ENGTYPE": "Province",
+      "NAME": "Bắc Ninh",
+      "TYPE": "Tỉnh",
+      "VARNAME": "Bac Ninh",
+      "CENTER": [
+        21.093956149385118,
+        106.05916814649835
+      ]
+    },
+    {
+      "ENGTYPE": "Province",
+      "NAME": "Bến Tre",
+      "TYPE": "Tỉnh",
+      "VARNAME": "Ben Tre",
+      "CENTER": [
+        10.139993939860455,
+        106.42319651815049
+      ]
+    },
+    {
+      "ENGTYPE": "Province",
+      "NAME": "Bà Rịa - Vũng Tàu",
+      "TYPE": "Tỉnh",
+      "VARNAME": "Ba Ria - Vung Tau",
+      "CENTER": [
+        10.599359731149134,
+        107.02987527344318
+      ]
+    },
+    {
+      "ENGTYPE": "Province",
+      "NAME": "Bình Định",
+      "TYPE": "Tỉnh",
+      "VARNAME": "Binh Dinh",
+      "CENTER": [
+        14.059822726383048,
+        108.90062479449965
+      ]
+    },
+    {
+      "ENGTYPE": "Province",
+      "NAME": "Bình Dương",
+      "TYPE": "Tỉnh",
+      "VARNAME": "Binh Duong",
+      "CENTER": [
+        11.212845506533315,
+        106.55083868457471
+      ]
+    },
+    {
+      "ENGTYPE": "Province",
+      "NAME": "Bình Phước",
+      "TYPE": "Tỉnh",
+      "VARNAME": "Binh Phuoc",
+      "CENTER": [
+        11.841175129216593,
+        106.82684356954084
+      ]
+    },
+    {
+      "ENGTYPE": "Province",
+      "NAME": "Bình Thuận",
+      "TYPE": "Tỉnh",
+      "VARNAME": "Binh Thuan",
+      "CENTER": [
+        11.03287054839614,
+        107.65093324027156
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "NAME": "Cần Thơ",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Can Tho",
+      "CENTER": [
+        10.189429611242069,
+        105.38707944007172
+      ]
+    },
+    {
+      "ENGTYPE": "Province",
+      "NAME": "Cà Mau",
+      "TYPE": "Tỉnh",
+      "VARNAME": "Ca Mau",
+      "CENTER": [
+        8.943572813583973,
+        104.9738851921703
+      ]
+    },
+    {
+      "ENGTYPE": "Province",
+      "NAME": "Cao Bằng",
+      "TYPE": "Tỉnh",
+      "VARNAME": "Cao Bang",
+      "CENTER": [
+        22.800518243778807,
+        106.20105417280574
+      ]
+    },
+    {
+      "ENGTYPE": "Province",
+      "NAME": "Đắk Lắk",
+      "TYPE": "Tỉnh",
+      "VARNAME": "Dak Lak",
+      "CENTER": [
+        12.750571237979138,
+        108.19803389715709
+      ]
+    },
+    {
+      "ENGTYPE": "Province",
+      "NAME": "Đắk Nông",
+      "TYPE": "Tỉnh",
+      "VARNAME": "Dak Nong",
+      "CENTER": [
+        12.252114779961644,
+        107.62474576916976
+      ]
+    },
+    {
+      "ENGTYPE": "Province",
+      "NAME": "Đồng Nai",
+      "TYPE": "Tỉnh",
+      "VARNAME": "Dong Nai",
+      "CENTER": [
+        11.072160274794141,
+        106.99463702974927
+      ]
+    },
+    {
+      "ENGTYPE": "Province",
+      "NAME": "Đồng Tháp",
+      "TYPE": "Tỉnh",
+      "VARNAME": "Dong Thap",
+      "CENTER": [
+        10.636298184387055,
+        105.45450209397711
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "NAME": "Đà Nẵng",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Da Nang",
+      "CENTER": [
+        16.093784109300742,
+        108.00596120920584
+      ]
+    },
+    {
+      "ENGTYPE": "Province",
+      "NAME": "Điện Biên",
+      "TYPE": "Tỉnh",
+      "VARNAME": "Dien Bien",
+      "CENTER": [
+        21.763984315876538,
+        103.2008556530876
+      ]
+    },
+    {
+      "ENGTYPE": "Province",
+      "NAME": "Gia Lai",
+      "TYPE": "Tỉnh",
+      "VARNAME": "Gia Lai",
+      "CENTER": [
+        13.777704114054727,
+        108.29167285373262
+      ]
+    },
+    {
+      "ENGTYPE": "Province",
+      "NAME": "Hải Dương",
+      "TYPE": "Tỉnh",
+      "VARNAME": "Hai Duong",
+      "CENTER": [
+        20.96277494106156,
+        106.3698349991409
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "NAME": "Hải Phòng",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Hai Phong",
+      "CENTER": [
+        20.742895235711313,
+        106.53725333017276
+      ]
+    },
+    {
+      "ENGTYPE": "Province",
+      "NAME": "Hậu Giang",
+      "TYPE": "Tỉnh",
+      "VARNAME": "Hau Giang",
+      "CENTER": [
+        9.75506697209971,
+        105.45852884392836
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "NAME": "Hồ Chí Minh",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Ho Chi Minh",
+      "CENTER": [
+        10.777233527765143,
+        106.60090501975093
+      ]
+    },
+    {
+      "ENGTYPE": "Province",
+      "NAME": "Hà Giang",
+      "TYPE": "Tỉnh",
+      "VARNAME": "Ha Giang",
+      "CENTER": [
+        22.837600449395218,
+        104.94916878833277
+      ]
+    },
+    {
+      "ENGTYPE": "City",
+      "NAME": "Hà Nội",
+      "TYPE": "Thành phố ",
+      "VARNAME": "Ha Noi",
+      "CENTER": [
+        21.00499761004012,
+        105.72942675330532
+      ]
+    },
+    {
+      "ENGTYPE": "Province",
+      "NAME": "Hà Nam",
+      "TYPE": "Tỉnh",
+      "VARNAME": "Ha Nam",
+      "CENTER": [
+        20.52643150571217,
+        105.92314833414913
+      ]
+    },
+    {
+      "ENGTYPE": "Province",
+      "NAME": "Hà Tĩnh",
+      "TYPE": "Tỉnh",
+      "VARNAME": "Ha Tinh",
+      "CENTER": [
+        18.24755414150243,
+        105.65600407494298
+      ]
+    },
+    {
+      "ENGTYPE": "Province",
+      "NAME": "Hoà Bình",
+      "TYPE": "Tỉnh",
+      "VARNAME": "Hoa Binh",
+      "CENTER": [
+        20.720469133881867,
+        105.36930000280128
+      ]
+    },
+    {
+      "ENGTYPE": "Province",
+      "NAME": "Hưng Yên",
+      "TYPE": "Tỉnh",
+      "VARNAME": "Hung Yen",
+      "CENTER": [
+        20.849827975396902,
+        105.99007722755701
+      ]
+    },
+    {
+      "ENGTYPE": "Province",
+      "NAME": "Khánh Hòa",
+      "TYPE": "Tỉnh",
+      "VARNAME": "Khanh Hoa",
+      "CENTER": [
+        12.351790331503308,
+        108.82447923346994
+      ]
+    },
+    {
+      "ENGTYPE": "Province",
+      "NAME": "Kiên Giang",
+      "TYPE": "Tỉnh",
+      "VARNAME": "Kien Giang",
+      "CENTER": [
+        9.962907147148742,
+        105.18528207548071
+      ]
+    },
+    {
+      "ENGTYPE": "Province",
+      "NAME": "Kon Tum",
+      "TYPE": "Tỉnh",
+      "VARNAME": "Kon Tum",
+      "CENTER": [
+        14.744410793609893,
+        107.69011636355529
+      ]
+    },
+    {
+      "ENGTYPE": "Province",
+      "NAME": "Lạng Sơn",
+      "TYPE": "Tỉnh",
+      "VARNAME": "Lang Son",
+      "CENTER": [
+        21.879300668427465,
+        106.35908142880425
+      ]
+    },
+    {
+      "ENGTYPE": "Province",
+      "NAME": "Lai Châu",
+      "TYPE": "Tỉnh",
+      "VARNAME": "Lai Chau",
+      "CENTER": [
+        22.33235793164674,
+        103.08446404512993
+      ]
+    },
+    {
+      "ENGTYPE": "Province",
+      "NAME": "Lâm Đồng",
+      "TYPE": "Tỉnh",
+      "VARNAME": "Lam Dong",
+      "CENTER": [
+        11.702688295871397,
+        108.0545712212154
+      ]
+    },
+    {
+      "ENGTYPE": "Province",
+      "NAME": "Lào Cai",
+      "TYPE": "Tỉnh",
+      "VARNAME": "Lao Cai",
+      "CENTER": [
+        22.403539704096277,
+        104.04956637608451
+      ]
+    },
+    {
+      "ENGTYPE": "Province",
+      "NAME": "Long An",
+      "TYPE": "Tỉnh",
+      "VARNAME": "Long An",
+      "CENTER": [
+        10.717754267159254,
+        106.09354189035747
+      ]
+    },
+    {
+      "ENGTYPE": "Province",
+      "NAME": "Nam Định",
+      "TYPE": "Tỉnh",
+      "VARNAME": "Nam Dinh",
+      "CENTER": [
+        20.302732280785165,
+        106.17208828729633
+      ]
+    },
+    {
+      "ENGTYPE": "Province",
+      "NAME": "Nghệ An",
+      "TYPE": "Tỉnh",
+      "VARNAME": "Nghe An",
+      "CENTER": [
+        19.299821817963682,
+        104.8639762325041
+      ]
+    },
+    {
+      "ENGTYPE": "Province",
+      "NAME": "Ninh Bình",
+      "TYPE": "Tỉnh",
+      "VARNAME": "Ninh Binh",
+      "CENTER": [
+        20.263353141528757,
+        105.84451410030604
+      ]
+    },
+    {
+      "ENGTYPE": "Province",
+      "NAME": "Ninh Thuận",
+      "TYPE": "Tỉnh",
+      "VARNAME": "Ninh Thuan",
+      "CENTER": [
+        11.740261032291448,
+        108.8240684744442
+      ]
+    },
+    {
+      "ENGTYPE": "Province",
+      "NAME": "Phú Thọ",
+      "TYPE": "Tỉnh",
+      "VARNAME": "Phu Tho",
+      "CENTER": [
+        21.350050533865794,
+        105.11181227765549
+      ]
+    },
+    {
+      "ENGTYPE": "Province",
+      "NAME": "Phú Yên",
+      "TYPE": "Tỉnh",
+      "VARNAME": "Phu Yen",
+      "CENTER": [
+        13.2526028857665,
+        109.0067537473744
+      ]
+    },
+    {
+      "ENGTYPE": "Province",
+      "NAME": "Quảng Bình",
+      "TYPE": "Tỉnh",
+      "VARNAME": "Quang Binh",
+      "CENTER": [
+        17.565333451617278,
+        106.24604606363475
+      ]
+    },
+    {
+      "ENGTYPE": "Province",
+      "NAME": "Quảng Nam",
+      "TYPE": "Tỉnh",
+      "VARNAME": "Quang Nam",
+      "CENTER": [
+        15.580588463537351,
+        107.80444420226033
+      ]
+    },
+    {
+      "ENGTYPE": "Province",
+      "NAME": "Quảng Ngãi",
+      "TYPE": "Tỉnh",
+      "VARNAME": "Quang Ngai",
+      "CENTER": [
+        14.988835853736164,
+        108.40726726763702
+      ]
+    },
+    {
+      "ENGTYPE": "Province",
+      "NAME": "Quảng Ninh",
+      "TYPE": "Tỉnh",
+      "VARNAME": "Quang Ninh",
+      "CENTER": [
+        21.101772646316668,
+        107.00013518247282
+      ]
+    },
+    {
+      "ENGTYPE": "Province",
+      "NAME": "Quảng Trị",
+      "TYPE": "Tỉnh",
+      "VARNAME": "Quang Tri",
+      "CENTER": [
+        16.674086177051997,
+        106.92432308166136
+      ]
+    },
+    {
+      "ENGTYPE": "Province",
+      "NAME": "Sóc Trăng",
+      "TYPE": "Tỉnh",
+      "VARNAME": "Soc Trang",
+      "CENTER": [
+        9.48857339859018,
+        105.84348642137581
+      ]
+    },
+    {
+      "ENGTYPE": "Province",
+      "NAME": "Sơn La",
+      "TYPE": "Tỉnh",
+      "VARNAME": "Son La",
+      "CENTER": [
+        21.130894661371727,
+        104.01107057581589
+      ]
+    },
+    {
+      "ENGTYPE": "Province",
+      "NAME": "Tây Ninh",
+      "TYPE": "Tỉnh",
+      "VARNAME": "Tay Ninh",
+      "CENTER": [
+        11.494527956322377,
+        106.09758937025566
+      ]
+    },
+    {
+      "ENGTYPE": "Province",
+      "NAME": "Thừa Thiên Huế",
+      "TYPE": "Tỉnh",
+      "VARNAME": "Thua Thien Hue",
+      "CENTER": [
+        16.24995232731423,
+        107.50008595205922
+      ]
+    },
+    {
+      "ENGTYPE": "Province",
+      "NAME": "Thái Bình",
+      "TYPE": "Tỉnh",
+      "VARNAME": "Thai Binh",
+      "CENTER": [
+        20.550783155268146,
+        106.41073719608046
+      ]
+    },
+    {
+      "ENGTYPE": "Province",
+      "NAME": "Thái Nguyên",
+      "TYPE": "Tỉnh",
+      "VARNAME": "Thai Nguyen",
+      "CENTER": [
+        21.67528319596861,
+        105.86539344339481
+      ]
+    },
+    {
+      "ENGTYPE": "Province",
+      "NAME": "Thanh Hóa",
+      "TYPE": "Tỉnh",
+      "VARNAME": "Thanh Hoa",
+      "CENTER": [
+        20.076393474738158,
+        105.27558956301613
+      ]
+    },
+    {
+      "ENGTYPE": "Province",
+      "NAME": "Tiền Giang",
+      "TYPE": "Tỉnh",
+      "VARNAME": "Tien Giang",
+      "CENTER": [
+        10.464215871778398,
+        106.10131028727606
+      ]
+    },
+    {
+      "ENGTYPE": "Province",
+      "NAME": "Trà Vinh",
+      "TYPE": "Tỉnh",
+      "VARNAME": "Tra Vinh",
+      "CENTER": [
+        9.84322540726489,
+        106.24496021362788
+      ]
+    },
+    {
+      "ENGTYPE": "Province",
+      "NAME": "Tuyên Quang",
+      "TYPE": "Tỉnh",
+      "VARNAME": "Tuyen Quang",
+      "CENTER": [
+        22.131753107511976,
+        105.15004050856842
+      ]
+    },
+    {
+      "ENGTYPE": "Province",
+      "NAME": "Vĩnh Long",
+      "TYPE": "Tỉnh",
+      "VARNAME": "Vinh Long",
+      "CENTER": [
+        10.071095977332645,
+        105.86115153674078
+      ]
+    },
+    {
+      "ENGTYPE": "Province",
+      "NAME": "Vĩnh Phúc",
+      "TYPE": "Tỉnh",
+      "VARNAME": "Vinh Phuc",
+      "CENTER": [
+        21.34949744422914,
+        105.58859241270386
+      ]
+    },
+    {
+      "ENGTYPE": "Province",
+      "NAME": "Yên Bái",
+      "TYPE": "Tỉnh",
+      "VARNAME": "Yen Bai",
+      "CENTER": [
+        21.806300849233388,
+        104.56809720308743
+      ]
+    }
+  ]
+}
