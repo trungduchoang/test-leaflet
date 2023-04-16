@@ -8,7 +8,7 @@ services:
     image: map-demo-prod
     container_name: map-demo-prod-container
     ports:
-      - "3000:3000"
+      - "3000:80"
     volumes:
       - .:/usr/src/map-demo-prod
     command: yarn start:prod
