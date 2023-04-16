@@ -5,25 +5,95 @@ import { MapContainer, TileLayer, Marker, Popup, GeoJSON } from "react-leaflet";
 import classes from "./VietNamMap.module.scss";
 import "leaflet/dist/leaflet.css";
 import { useEffect, useState } from "react";
+import MarkersRenderer from "../MarkersRenderer";
+import { HANOI_COORDINATES } from "@/constants/coordinates";
 
-const hanoiPosition = { lat: 21.0278, lng: 105.8342 };
-const saigonPosition = { lat: 10.8231, lng: 106.6297 };
-const markerIcon = Leaflet.icon({
-  iconUrl: "/images/location-marker.png",
-  iconRetinaUrl: "/images/location-marker.png",
-  iconSize: new Leaflet.Point(100, 100),
-});
+function shortenCoordinatesList({
+  _coordinates,
+  pointsQty,
+}: {
+  _coordinates: any[];
+  pointsQty: number;
+}): [number, number][] {
+  const coordinates = flat(flat(flat(_coordinates)));
+  const coordsQty = coordinates.length;
+  const increaseUnit = Math.round(coordsQty / pointsQty);
+  const result = [];
+
+  for (let i = 0; i < pointsQty; i += 1) {
+    const coords = getCoords(coordinates[i * increaseUnit]);
+    result.push(coords);
+  }
+  return result;
+
+  function getCoords(coords: any[]): [number, number] {
+    if (typeof coords[0] === "number") return coords as any;
+    return getCoords(coords[0]);
+  }
+  function flat(coords: any[]): any[] {
+    let result: any[] = [];
+    for (let i = 0; i < coords.length; i += 1) {
+      if (typeof coords[i][0] === "number") result.push(coords[i]);
+      else result = [...result, ...coords[i]];
+    }
+    return result;
+  }
+}
+function getCenterCoordinates(
+  coordinates: [number, number][],
+): [number, number] {
+  const numCoords = coordinates.length;
+
+  if (numCoords === 0) {
+    return [0, 0];
+  }
+
+  let x = 0;
+  let y = 0;
+  let z = 0;
+
+  for (let i = 0; i < coordinates.length; i += 1) {
+    const coord = coordinates[i];
+    const latitude = (coord[1] * Math.PI) / 180;
+    const longitude = (coord[0] * Math.PI) / 180;
+
+    x += Math.cos(latitude) * Math.cos(longitude);
+    y += Math.cos(latitude) * Math.sin(longitude);
+    z += Math.sin(latitude);
+  }
+
+  x /= numCoords;
+  y /= numCoords;
+  z /= numCoords;
+
+  const centralLongitude = Math.atan2(y, x);
+  const centralSquareRoot = Math.sqrt(x * x + y * y);
+  const centralLatitude = Math.atan2(z, centralSquareRoot);
+
+  const center: [number, number] = [
+    (centralLatitude * 180) / Math.PI,
+    (centralLongitude * 180) / Math.PI,
+  ];
+
+  return center;
+}
 
 /**
  * VietNamMap
  */
 export default function VietNamMap() {
   const [json, setJson] = useState<any>();
+  const [ducht, setDucht] = useState([0, 0]);
+
   useEffect(() => {
     fetch("/geojson/vnm1.geojson")
       .then((res) => res.json())
       .then((res) => {
-        console.log(res);
+        const shorterCoordinates = shortenCoordinatesList({
+          _coordinates: res.features[0].geometry.coordinates,
+          pointsQty: 10,
+        });
+        setDucht(getCenterCoordinates(shorterCoordinates));
         setJson(res);
       })
       .catch((e) => {
@@ -35,12 +105,12 @@ export default function VietNamMap() {
   return (
     <div className={classes.root}>
       <MapContainer
-        center={hanoiPosition}
+        center={HANOI_COORDINATES}
         zoom={12}
         style={{ height: "calc(100vh - 37px)" }}
       >
         <TileLayer
-          url="https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}"
+          url="https://{s}.basemaps.cartocdn.com/rastertiles/voyager_nolabels/{z}/{x}/{y}{r}.png"
           minZoom={0}
           maxZoom={18}
         />
@@ -55,22 +125,7 @@ export default function VietNamMap() {
             weight: 1,
           }}
         />
-        <Marker position={hanoiPosition} icon={markerIcon}>
-          <Popup>
-            <div>
-              <h2>Hanoi</h2>
-              <p>Hanoi is the capital of Vietnam.</p>
-            </div>
-          </Popup>
-        </Marker>
-        <Marker position={saigonPosition} icon={markerIcon}>
-          <Popup>
-            <div>
-              <h2>Ho Chi Minh City</h2>
-              <p>Ho Chi Minh City is the largest city in Vietnam.</p>
-            </div>
-          </Popup>
-        </Marker>
+        <MarkersRenderer ducht={ducht} />
       </MapContainer>
     </div>
   );
